@@ -1,0 +1,41 @@
+Week 1:
+> Read up on etags and related research papers
+> Execute survey code
+
+Week 2:
+> Acquire list of top 50k sites on Alexa top following robot rules
+
+Week 3:
+> Create code that can parse the contents of each file
+> Question 1: How many have ETags in header?
+> Question 2: How many set cookies?
+
+Week 4:
+> Filter etags that look default; find suspicious etags that also give cookie
+send a request packet with empty header
+if etag is same:
+	no big deal
+else:
+	check cookie
+
+Week 5:
+for each site in filtered list:
+	establish initial connection following robot rules
+	collect etag1, cookie1
+	
+	first:
+		place cookie1 in request header and check if etag is the same
+		if etag is the same:
+			then potentially benign
+	second:
+		place etag1 in request header and check if cookie is the same
+		if status 304:
+			pass
+		else if cookie is the same
+			there is a problem
+
+Week 6:
+for all ~25k sites with etags with 60s delay, recheck 
+
+Week 7-10:
+write up lab report to interpret data

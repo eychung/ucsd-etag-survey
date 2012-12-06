@@ -1,0 +1,109 @@
+Sites with same ETags:
+(u'siamsport.co.th', '"35e9a16c1c80cd1:0"', 'NSC_tt-dmvtufs-iuuq-xxx=ffffffffc3a01e0645525d5f4f58455e445a4a423660;path=/;httponly')
+(u'wordstream.com', '"483d2f4cb31f6063d29f736d086ac741"', 'SESS718fb9225da23969d841f33e3b66db09=qd31rni5h7qieih6qj9murav44; expires=Fri, 07-Dec-2012 06:48:58 GMT; path=/; domain=.wordstream.com, myref_1=ws+local; expires=Mon, 18-Feb-2036 03:15:38 GMT; path=/; domain=.wordstream.com, mycmp=none; expires=Mon, 18-Feb-2036 03:15:38 GMT; path=/; domain=.wordstream.com, mysrc=none; expires=Mon, 18-Feb-2036 03:15:38 GMT; path=/; domain=.wordstream.com, tstamp=20121113%2822%3A11%3A38%29; expires=Mon, 18-Feb-2036 03:15:38 GMT; path=/; domain=.wordstream.com, navp=%2F+%3E+; path=/; domain=.wordstream.com')
+(u'rutgers.edu', '"092dff3724304082a4ab8fc9db18b82f"', 'SESS63b5dafb0a080f264c96ba1c80b17f9d=s042nfrbikllrgs4hp445badp1; expires=Fri, 07-Dec-2012 06:58:11 GMT; path=/; domain=.rutgers.edu')
+(u'portableapps.com', '"c07257ae31569c76de0d5a6a60c03500"', 'SESS472db2f644ac5341a5848a28de6a9b41=5blaqsril2vtfgds9qnk59v7o6; expires=Fri, 07-Dec-2012 07:04:18 GMT; path=/; domain=.portableapps.com')
+(u'siemens.com', '"80aaa841ecc0cd1:0"', 'countryselector=US; path=/')
+(u'bravotv.com', '"1352864003"', 'ak-mobile-detected=no; expires=Thu, 15-Nov-2012 03:37:03 GMT; path=/')
+(u'intraship.de', '"20000000110a1-12e-45254cb0de5d8"', 'BIGipServerIntraShip=1544112293.20480.0000; expires=Wed, 14-Nov-2012 04:40:06 GMT; path=/')
+(u'openstreetmap.org', '"b2d0f9263228847454ab1d3ed8042305"', '_osm_session=fdb4ebde0444ceae9f640358e1bfa0d7; path=/; HttpOnly')
+(u'usa.gov', '"bbe2bafb02da58b4242d7d63998d3d73:1352828716"', 'mdr_browser=desktop; expires=Wed, 14-Nov-2012 05:52:26 GMT; path=/; domain=.usa.gov')
+(u'reforma.com', '"804bf9c51ac2cd1:0"', 'GRCID2=d3f1905a3ec042bf93d3b1683b5033f3;path=/;Expires=Sun, 01-Jan-2096 00:00:00 GMT;')
+(u'adevarul.ro', '"pv226a492e25e957bf66700260f082a028"', 'BIGipServerADV_adevarul.ro=16777482.20736.0000; path=/')
+(u'aviasales.ru', '"ffc7ad01e57268e24d788782e1045848"', '_nano_mobile_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFVEkiJTBjMDNkZDIxMGFhZjg0MmM2N2Q5NWEyNTMxY2M0ZjFiBjsAVEkiEnVzZXJfbG9jYXRpb24GOwBGews6CWlhdGFJIghTQU4GOwBUOgluYW1lSSIi0KHQsNC9LdCU0LjQtdCz0L4sIENBLCDQodCo0JAGOwBUOhBjb29yZGluYXRlc1sHZg8zMi43MTUzMjkyZhEtMTE3LjE1NzI1NTE6EmluZGV4X3N0cmluZ3NbD0kiEnVuaXRlZCBzdGF0ZXMGOwBUSSIL0YHRiNCwBjsAVEkiC%2Be%2BjuWbvQY7AFRJIiN2ZXJlaW5pZ3RlIHN0YWF0ZW4gdm9uIGFtZXJpa2EGOwBUSSIOc2FuIGRpZWdvBjsAVEkiFtGB0LDQvS3QtNC40LXQs9C%2BBjsAVEkiDuWco%2Bi%2FreaIiAY7AFRJIiRzYW4gZGllZ28gaW50ZXJuYXRpb25hbCBhaXJwb3J0BjsAVEkiE3NhbiBkaWVnbyBpbnRsBjsAVEkiCHNhbgY7AFQ6EWFpcnBvcnRfbmFtZUkiJFNhbiBEaWVnbyBJbnRlcm5hdGlvbmFsIEFpcnBvcnQGOwBUOhNzZWFyY2hlc19jb3VudGkCSAhJIhBfY3NyZl90b2tlbgY7AEZJIjFkUXFTazBwazVHYnFtaTNpTWNGYlRyQVBuMFFDRUJURnMvTmFwb2lGcFRvPQY7AEY%3D--46da437b698a0361486d25dc179916d4537649b1; path=/; HttpOnly')
+(u'moneycontrol.com', '"dd94290534bd72eaa8ac40b2fc370d22:1352866821"', 'cae_browser=desktop; expires=Wed, 14-Nov-2012 06:21:15 GMT; path=/; domain=.moneycontrol.com')
+(u'c-sharpcorner.com', '""', 'ASP.NET_SessionId=cizqoz45zoqgekumruvdcojb; path=/; HttpOnly')
+(u'vh1.com', '5098eef498c90e9478e55deb2516f0', 'ak-mobile-detected=no; expires=Wed, 14-Nov-2012 10:32:34 GMT; path=/')
+(u'getiton.com', 'TESTBED', 'getiton_apr=1; path=/; domain=.getiton.com; expires=Fri, 14-Dec-2012 04:35:36 GMT, getiton_apr_session=1; path=/; domain=.getiton.com; expires=Wed, 14-Nov-2012 04:40:36 GMT, getiton_who=r,FSw9_IOzEi1Ii_ye9CCzUQQGacuhUj1drytjB9D2l2BfcXE7AE3vaSi9cn01c5i_PuJqH0Uym9HzegP98sIzRqt1xMYPzrlL4j_X_M_jIoqYlCCCgJ61pR40KSE4pWlR; path=/; domain=.getiton.com, v_hash=_english_0; path=/; domain=.getiton.com; expires=Fri, 14-Dec-2012 04:35:36 GMT, IP_COUNTRY=United States; path=/; domain=.getiton.com; expires=Fri, 14-Dec-2012 04:35:36 GMT, getiton_tr=r,IRqTajVNhB7kPqEJBqU5mpPRaHrnsHWbDE0oFPt3MBhT7tIOTylGEnl7ZFzxbcTd; path=/; domain=.getiton.com; expires=Fri, 14-Dec-2012 04:35:36 GMT, LOCATION_FROM_IP=country&United+States&area_code&858&longitude&-117.2073&country_name&United+States&lat&32.8594&region_name&California&country_code&US&region&CA&state&California&zip&92122&city&San+Diego&postal_code&92122&latitude&32.8594&lon&-117.2073&dma_code&825&country_code3&USA; path=/; domain=.getiton.com; expires=Fri, 14-Dec-2012 04:35:36 GMT, HISTORY=20121113-1-Dc; path=/; domain=.getiton.com; expires=Fri, 14-Dec-2012 04:35:36 GMT, AB_TRACKING=nOUJPqUVGlXQzIQteF5pwF; path=/; domain=.getiton.com; expires=Fri, 14-Dec-2012 04:35:36 GMT, REFERRAL_URL=; path=/; domain=.getiton.com; expires=Wed, 14-Nov-2012 16:35:36 GMT, click_id_time=1243034999_2012-11-13 20:35:36; path=/; domain=.getiton.com; expires=Fri, 14-Dec-2012 04:35:36 GMT')
+(u'umeng.com', '"46faedfa8aade7138bbb38044561718a"', '_umeng_session_0529=BAh7ByIQX2NzcmZfdG9rZW4iMWFUcmtuN1dSYnZqbjlaYWE5Z0ZpQ3ZvOFdGbTNib2trYk56aHpDQzQxbDQ9Ig9zZXNzaW9uX2lkIiViMTUwZTc1YTIzMGIxOWE3YWY5YmRhYzhmZmNkNTBmOA%3D%3D--2be68d0e83283c1b34b1f11a8b33ff9bd0127f7d; domain=.umeng.com; path=/; HttpOnly')
+(u'whois.sc', '"6e9171c9d08f39b2ce16599f6b06b0b6"', 'DTLLCCOOKIE=388023660.1.3047349184.2074960376; path=/')
+(u'minglebox.com', '"97586c7c254629aaab21f306071a1002"', '__seolp__=default; Domain=.minglebox.com; Path=/, JSESSIONID=A~57BEDD8623D9D665FD56F9CC55897767; Domain=.minglebox.com; Path=/')
+(u'atlas.sk', '"3fb618-11e23-4ce6d74223a80"', 'USE_COOKIES=1; path=/; domain=.atlas.sk')
+(u'fuckbookofsex.mobi', 'TESTBED', 'ffadult_who=r,EDnUzn6XVA8_yK0TQASmLnpAkkVgZmoHNmGDnKYB/Rq0uFrdAmj0s8xaXav8/a4jskf4x_EolvehKZy5Xb57rZFTexKdsLPhtKopc98Mt/eYvkH_HhAst2VCSvIXWELcL8HiOOM7w6oyfjzGSsatAdhWuadhoz4yM/tNqafJE2i2hdMchY3Oi5Ts1kfVljKw; path=/; domain=.fuckbookofsex.mobi, v_hash=_english_31412; path=/; domain=.fuckbookofsex.mobi; expires=Fri, 14-Dec-2012 05:15:43 GMT, IP_COUNTRY=United States; path=/; domain=.fuckbookofsex.mobi; expires=Fri, 14-Dec-2012 05:15:43 GMT, ffadult_tr=r,x37RlyS1rM89dle0kHog7NYtAJkGgZ3QzSAzM1OnQqoJ6GO5vKZySWoB9fkpBN0Q; path=/; domain=.fuckbookofsex.mobi; expires=Fri, 14-Dec-2012 05:15:43 GMT, LOCATION_FROM_IP=country&United+States&area_code&858&longitude&-117.2073&country_name&United+States&lat&32.8594&region_name&California&country_code&US&region&CA&state&California&zip&92122&city&San+Diego&postal_code&92122&latitude&32.8594&lon&-117.2073&dma_code&825&country_code3&USA; path=/; domain=.fuckbookofsex.mobi; expires=Fri, 14-Dec-2012 05:15:43 GMT, HISTORY=20121113-1-Dc; path=/; domain=.fuckbookofsex.mobi; expires=Fri, 14-Dec-2012 05:15:43 GMT, AB_TRACKING=z4U0WwqOgEzKdaCYi7Ozlm; path=/; domain=.fuckbookofsex.mobi; expires=Fri, 14-Dec-2012 05:15:43 GMT, REFERRAL_URL=; path=/; domain=.fuckbookofsex.mobi; expires=Wed, 14-Nov-2012 17:15:43 GMT, click_id_time=84696925_2012-11-13 21:15:43; path=/; domain=.fuckbookofsex.mobi; expires=Fri, 14-Dec-2012 05:15:43 GMT')
+(u'shape.com', '"1352869229"', 'ak-mobile-detected=no; expires=Wed, 14-Nov-2012 11:18:46 GMT; path=/')
+(u'ktone.cn', '"dfe-4cddffbfe7100"', 'BAIDUID=BEC14A64E151F49F1411E6D860DFC905:FG=1; expires=Thu, 14-Nov-13 05:21:54 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1')
+(u'sm3na.com', '"jpd-279336952.27196"', 'lang=deleted; expires=Tue, 15-Nov-2011 05:24:57 GMT')
+(u'elnorte.com', '"026ff8720c2cd1:0"', 'GRCID2=d969d48037e64c1c9aece00dd5dbf771;path=/;Expires=Sun, 01-Jan-2096 00:00:00 GMT;')
+(u'cebbank.com', '"398b22-37-47edc87acdb40"', 'BIGipServerportal_web_pool=554150080.20480.0000; path=/')
+(u'softonic.com.br', '"a85c75794f276899f514315d023dab7e"', 'PHPSESSID=7c1fbae6d58608f96214fc5be5276982; path=/; domain=softonic.com.br, softonic_br-admin=deleted; expires=Tue, 15-Nov-2011 05:47:30 GMT; path=/; domain=softonic.com.br, blang=_; expires=Thu, 14-Nov-2013 05:47:31 GMT; path=/; domain=softonic.com.br, country=US; expires=Thu, 14-Nov-2013 05:47:31 GMT; path=/; domain=softonic.com.br, ucountry=NA; expires=Thu, 14-Nov-2013 05:47:31 GMT; path=/; domain=softonic.com.br, sads_country=US; expires=Thu, 14-Nov-2013 05:47:31 GMT; path=/; domain=softonic.com.br, entry=Direct; expires=Thu, 14-Nov-2013 05:47:31 GMT; path=/; domain=softonic.com.br, sem_cid_php=deleted; expires=Tue, 15-Nov-2011 05:47:30 GMT; path=/; domain=softonic.com.br, sem_expirationdate_php=deleted; expires=Tue, 15-Nov-2011 05:47:30 GMT; path=/; domain=softonic.com.br, sem_creationdate_php=deleted; expires=Tue, 15-Nov-2011 05:47:30 GMT; path=/; domain=softonic.com.br, softonic_br-sads=deleted; expires=Tue, 15-Nov-2011 05:47:30 GMT; path=/; domain=softonic.com.br, alternative_platform=deleted; expires=Tue, 15-Nov-2011 05:47:30 GMT; path=/; domain=softonic.com.br, suggested-instance=1; expires=Thu, 14-Nov-2013 05:47:31 GMT; path=/; domain=softonic.com.br')
+(u'trustlink.ru', '"e2445c10c5d51d35462852b333e16363"', 'auth_fail=; path=/, _session_id=BAh7CToPc2Vzc2lvbl9pZCIlNDA4NDkzMjQyNTk0NjAzZWQ1NjQ1YTIzMmU5ZTQxYmU6DHJlZmVyZXIiACIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7ADoLbG9jYWxlIg1ydS1UUlVTVA%3D%3D--8211e8443bbaf72cbc9fe817bee67995c2925542; path=/; HttpOnly')
+(u'adsoftheworld.com', '"239b35374baf636e01d48b2fcecea4ed"', 'SESSc7449e4fbf5f933476f4d4c3fd813f22=af9e7ac802f30f14f3101c307735cd69; expires=Fri, 07 Dec 2012 09:41:43 GMT; path=/; domain=.adsoftheworld.com')
+(u'icefilms.info', '"7a8075-d905-4ce6e3eca1c80"', '__cfduid=dd498d5e1fd4d5bed98d6169c9685f87d1352873096; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.icefilms.info')
+(u'2012presidentialelectionnews.com', '"16da6-50a3346c-0"', '__cfduid=d256cd3ec0d5cdb918d0619361abd63bf1352873468; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.2012presidentialelectionnews.com')
+(u'sba.gov', '"1352873125-0"', 'BIGipServersba.gov=7yZpVuakpsTCSO191H6QkF5wMu+aoeiAcf2RxqByT7qj34vXr5PavpHcaVl02acBOh/y7bV2EPOnkGg=; path=/')
+(u'cgbchina.com.cn', '"142c7-12dfa-4c611d80"', 'gdb=536979648.52491.0000; expires=Wed, 14-Nov-2012 06:27:17 GMT; path=/')
+(u'narenji.ir', '"3a7145c31fad2332d2044219d3a04999"', '__cfduid=d0671e627f2bb3b8580088f63b7da085c1352874023; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.narenji.ir')
+(u'adknowledge.com', '"e3858356dce75184952cc793119f6e63"', 'SESSaa924e1c601e4b8d26a4feab4781a8df=2bqv5l3bpgggo43j3qdkl79cksa3mcm9; expires=Fri, 07 Dec 2012 09:56:47 GMT; path=/; domain=.adknowledge.com; HttpOnly')
+(u'penthouse.com', 'TESTBED', 'ph_who=r,z4LKI0I8O3X/uhuO5QkbpRAgvoxkSaUKcfD63tYqj5BXTyoNopg0KQYBnZkDvtpXIwOl0G0YLr105t3QwC83OW_tfdcw5MmwZqR/P0G23xS9c1poSZbdMHiXX33m2Wxf; path=/; domain=.penthouse.com, v_hash=_english_0; path=/; domain=.penthouse.com; expires=Fri, 14-Dec-2012 06:35:41 GMT, IP_COUNTRY=United States; path=/; domain=.penthouse.com; expires=Fri, 14-Dec-2012 06:35:41 GMT, ph_tr=r,l5MhRis3k5lCVpAjC4DDIFC85HDEq232hjkm/3iAhXfD17FMDBPMVgBX8zf58KM9; path=/; domain=.penthouse.com; expires=Fri, 14-Dec-2012 06:35:41 GMT, LOCATION_FROM_IP=country&United+States&area_code&858&longitude&-117.2073&country_name&United+States&lat&32.8594&country_code&US&region&CA&state&California&zip&92122&city&San+Diego&postal_code&92122&latitude&32.8594&lon&-117.2073&dma_code&825&country_code3&USA; path=/; domain=.penthouse.com; expires=Fri, 14-Dec-2012 06:35:41 GMT, HISTORY=20121113-1-Dc; path=/; domain=.penthouse.com; expires=Fri, 14-Dec-2012 06:35:41 GMT, AB_TRACKING=f4ua9cCjhTkgNBmbEwHEbp; path=/; domain=.penthouse.com; expires=Fri, 14-Dec-2012 06:35:41 GMT, REFERRAL_URL=; path=/; domain=.penthouse.com; expires=Wed, 14-Nov-2012 18:35:41 GMT, click_id_time=1477461124_2012-11-13 22:35:41; path=/; domain=.penthouse.com; expires=Fri, 14-Dec-2012 06:35:41 GMT')
+(u'klikbca.com', '"pv23f272e2793da3e036895f2f0d15b24d"', 'langID=1; path=/, ASPSESSIONIDAASBCRQC=NADEOOPAAGLMGCAFLBKMDKCN; path=/')
+(u'm6.fr', '"cyrealis-197476693.87252"', 'id_search=262869469; expires=Wed, 14-Nov-2012 07:36:54 GMT; path=/; domain=.m6.fr')
+(u'twitter.com', '"b8993a2c59144e2cb0c188de62bbe394"', 'k=10.35.29.137.1352875493075717; path=/; expires=Wed, 21-Nov-12 06:44:53 GMT; domain=.twitter.com, guest_id=v1%3A135287549307888458; domain=.twitter.com; path=/; expires=Fri, 14-Nov-2014 18:44:53 GMT, _twitter_sess=BAh7CToMY3NyZl9pZCIlY2RlNDJhNDBjMjFmZWE5NGNiYjgxZmJjMzA3YTVl%250AOWI6D2NyZWF0ZWRfYXRsKwjXxqn9OgE6B2lkIiU1MGM5ODI2YTBmM2EwNjZi%250ANzQyMzQ1M2ViNzNjYjFmYSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6%250ARmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA%253D%253D--7a7c0cc6393ba8e5b48131b86cf0c7645c5b9df4; domain=.twitter.com; path=/; HttpOnly')
+(u'inshallah.com', '"-dllrn2"', 'hl=en; Domain=.inshallah.com; expires=Thu, 14-Nov-13 05:46:09 GMT; Path=/')
+(u'usbank.com', '"80ff6a2a2bb9cd1:0"', 'LB-www=3840125120.47873.0000; path=/')
+(u'jazztel.com', '"8a9695c3"', 'JSESSIONID=s65RQjDQ203xK32yLhLMTTZny8HJysxgQlhMXdpZZ3X28blwm188!-1473875347; path=/; HttpOnly')
+(u'fannation.com', '"d366656539f2c4d58a7e8a1b6c396154"', '_session_id=e4465dc053b8040e3d40d44d1297098b; path=/')
+(u'click.ro', '"pv0893ba390586e6cb6e3d9674389325a9"', 'BIGipServerCLK_click.ro=50331914.20480.0000; path=/')
+(u'toshiba.co.jp', '"de3-49f32bd0141c0"', 'BIGipServerpool-www-110823=1216391360.20480.0000; expires=Wed, 14-Nov-2012 09:23:14 GMT; path=/, TSedfad2=23359e936a24492f65215dda12c509352f0b50500224a26d50a346e28f87b5744235d53f; Path=/')
+(u'pcastuces.com', '"90fe2c5238c2cd1:20b35"', 'HotlinkBlocker=2c9e83e04dd18800; path=/; domain=.www.pcastuces.com; max-age=60; expires=Wed, 14-Nov-2012 07:29:20 GMT')
+(u'ant.com', '"cff09a9563d0ee0df589e7ec04f096fe"', 'logged=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT, username=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT, flash=%7B%7D; path=/, _ant_com=eafb1bd123594a85929ebfb2a5800723; path=/; expires=Fri, 14-Dec-2012 07:31:24 GMT; HttpOnly')
+(u'kaywa.com', '"2012-11-01 06:31:46"', 'bb2_screener_=1352878468+108.197.32.23; path=/, PHPSESSID=da4dec38c3f638395126493ff0bcb36f; path=/; domain=www.kaywa.com')
+(u'practicalecommerce.com', '"535accbabb06795d2f28bdb969652d05"', '_pec_session=6f6a3a7395a1fced14dd138653ae9715; domain=.practicalecommerce.com; path=/')
+
+
+Sites with same Set-Cookie:
+(u'siemens.com', '"80aaa841ecc0cd1:0"', 'countryselector=US; path=/')
+(u'usbank.com', '"80ff6a2a2bb9cd1:0"', 'LB-www=3840125120.47873.0000; path=/')
+
+
+Sites with problems:
+mnn.com
+siamsport.co.th
+soup.io
+intraship.de
+reforma.com
+adevarul.ro
+resumebear.com
+people.com
+health.com
+goodsearch.com
+frandroid.com
+atlas.sk
+ktone.cn
+sm3na.com
+wanelo.com
+elnorte.com
+who.is
+softonic.com.br
+ozbargain.com.au
+cnngo.com
+icefilms.info
+akamai.com
+2012presidentialelectionnews.com
+narenji.ir
+klikbca.com
+m6.fr
+inshallah.com
+tns-global.com
+brigitte.de
+fannation.com
+click.ro
+thisoldhouse.com
+bronto.com
+toshiba.co.jp
+superpoints.com
+blogher.com
+pcastuces.com
+ant.com
+kaywa.com
+practicalecommerce.com
+ostraining.com
+
+
+# ETag changed: 34
+# ETag unchanged: 49
+# HTTP status 304: 0
+# Cookie changed: 57
+# Cookie unchanged: 2
+# Err general: 39
+# Err robot: 1
+# Err permission: 1

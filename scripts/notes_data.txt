@@ -1,0 +1,51 @@
+Date data downloaded: 10/14/2012
+Date data reanalyzied: 11/6/2012
+
+
+Sites allowing robots: 46,690
+	Set-Cookie: 25,274
+	ETags: 7,345
+
+ETag table:
+	Distinct servers: 1,035
+	Set-Cookie: 1,536
+
+	
+Statistics:
+	ETags:
+		> 7032 distinct ETags
+		> 70 duplicate ETags 
+		> 285 w/ (280 distinct)
+		> 62 "8044f33e41dcd1:0"
+		> 40 ""
+		> 37 6666cd76f96956469e7be39d750cc7d9
+		> Per 10k: 1,407, 1,458, 1381, 1,505, 1,592
+	Servers:
+		> Top server: Apache, 1,532
+		> Total unique servers: 1,035
+		
+
+Resend Attempt #1:
+	Same Etags: 34
+	Same Cookie: 3
+	Same Etag and same cookie: 2
+	Connection Error: 4
+	
+Resend Attempt #2:
+	ETag changed: 503
+	ETag unchanged: 901
+	Cookie changed: 947
+	Cookie unchanged: 35
+	Err general: 525
+	Err robot: 6
+	Err permission: 39
+	
+HTTP problems encountered:
+	IOError: ('http protocol error', 0, 'got a bad status line', None) - http://www.biletix.com
+	IOError: [Errno socket error] [Errno2] Temporary failure in name resolution - http://www.olympus-imaging.jp
+	IOError: [Errno socket error] [Errno8] hostname nor servname provided, or not known - http://www.tns-global.com
+	IOError: [Errno socket error] [Errno114] Network is unreachable - http://www.marketing-interactive.com
+	httplib.BadStatusLine - http://www.priceshoes.com.mx
+	urllib2.URLError: <urlopen error [Errno 114] Network is unreachable> - http://www.3eke.ir
+	
+		

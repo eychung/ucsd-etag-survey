@@ -1,0 +1,113 @@
+Sites with same ETags:
+(u'marthastewartweddings.com', '"1352859398"', 'NSC_esvqbm_nt_vhd_qspe=ffffffff09849e3545525d5f4f58455e445a4a423660;expires=Wed, 14-Nov-2012 03:15:23 GMT;path=/;httponly')
+(u'dressbarn.com', 'e3f162e208adba4e27de25fbb170b007', 'websess=k31oiv8n4i4n1hqsc4c3bk0p25; path=/; HttpOnly')
+(u'football-italia.net', '"c05174811199336190a73a2806badad8"', 'SESSbea254bd97582e66e998453df3657a7a=6kr82gfpkg9gg9l0hb6h64c191; expires=Fri, 07-Dec-2012 06:52:49 GMT; path=/; domain=.football-italia.net')
+(u'j-wave.co.jp', '"ffffffffd88f852d-62f7-4ce0cf6f11c6d"', 'X-Mapping-hefdgbhj=7664DC8CCCB2AB3C6D505FE0AC1E1055; path=/')
+(u'ibtimes.com', '"1352863835-1"', 'ibt=388023660.1.693337376.911659520; path=/')
+(u'avexnet.or.jp', '"784b8-7125-17426800"', 'r_usertrack=108.197.32.23.1352864524464194; path=/; expires=Tue, 12-Feb-13 03:42:04 GMT')
+(u'collectionsetc.com', '""', 'ASP.NET_SessionId=z1fjdi235yw4lo551jxg3s55; path=/; HttpOnly, SessionID=; path=/; HttpOnly, UserSegmentationIdID=3546d846cc0646dd96ab3209f0fa272f; expires=Sat, 14-Nov-2015 03:52:20 GMT; path=/; HttpOnly, CMABTest01=VersionB; expires=Wed, 28-Nov-2012 03:52:20 GMT; path=/; HttpOnly, CoremetricsABTest=ABTEST1; expires=Wed, 28-Nov-2012 03:52:20 GMT; path=/; HttpOnly, emailTest_5050=VersionA; expires=Wed, 28-Nov-2012 03:52:20 GMT; path=/; HttpOnly, HomePage Overlay=Show; expires=Wed, 28-Nov-2012 03:52:20 GMT; path=/; HttpOnly, Sept_AB_HP=Rotate; expires=Wed, 28-Nov-2012 03:52:20 GMT; path=/; HttpOnly, Shipping Test 50/50=private sale on; expires=Wed, 28-Nov-2012 03:52:20 GMT; path=/; HttpOnly, splitTest_50/50=default; expires=Wed, 28-Nov-2012 03:52:20 GMT; path=/; HttpOnly, SS_HP_Test=ABTEST2; expires=Wed, 28-Nov-2012 03:52:20 GMT; path=/; HttpOnly, RecordsPerPage=12; expires=Sun, 12-May-2013 05:00:00 GMT; path=/; HttpOnly')
+(u'a8.net', '"3761b7-6d2b-4ce6c2f3a91c0"', 'app=cfa4185f5f04080f8665800064000000c8000000; expires=Wed, 13-Feb-2013 03:55:23 GMT; path=/')
+(u'dornob.com', '"cb6a-4cdd42c8c5dc0"', 'BIGipServerdornob_POOL=2531266732.20480.0000; path=/')
+(u'luexiao.com', '"23f07b9f0104b533c348de9e075e9d6a"', '_sparrow_session=b06466d65e1a3c1ac1aeb93daea6228a; path=/; expires=Wed, 14-Nov-2012 16:03:13 GMT; HttpOnly')
+(u'galoor.com', '"8f382dbc4f64e22a4a1f2b03a09ce430"', '_articles_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTBkNGRlYmQ1YzMyYmM0OGEzNmE5NzZiMDc1MDU1ODgxBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMTdjbmR5YTBxQWFQMUFQcGIrK3I3c3lpMkJGNjkrSnVQWURmMDFQVFlQdEU9BjsARg%3D%3D--6124350ea3032a363c44c514d70d37062a422bb9; path=/; HttpOnly')
+(u'glencoe.com', '"67a0ea-2c0a-4fe9d530"', 'NABL47SC=JdRTET4ekIx95pON0fn1uHZKAdX+tEAqqfjqNhufVC9PCpqHTRoaC4NoaYLuhgcIq8ZnXXWulk/9ZYg=; expires=Wed, 14-Nov-2012 05:11:07 GMT; path=/')
+(u'marthastewart.com', '"1352865029"', 'NSC_esvqbm_nt_vhd_qspe=ffffffff09849e3445525d5f4f58455e445a4a423660;expires=Wed, 14-Nov-2012 04:16:09 GMT;path=/;httponly')
+(u'hdb.gov.sg', '"pv2fcb54f5aa900334c10bd592a56bcb2c"', 'VIPBB=807119040.20480.0000; path=/, TS6eac51=3da1b462bddaa89ebd285c55b7033bc0ac054c45a3ef6eeb50a31b20; Path=/, BIGipServerDOMINO_HTTP_ASM_POOL_3=2182850752.20480.0000; path=/')
+(u'rappler.com', '2c0187b8225c556ddea9e68e268f2bd3', 'PHPSESSID=e03nu235m5bf5gasj4gp5a7n04; path=/, AWSELB=4BDBE7831ACBC61205F7A7B63EE0F5339E4C653F2FCF3F24A67E6E9C9DBEE751310CEACABFD2303E3E5D57EF76AF00BC600237DA42C62D99C1215373820A72E3276A41C672;PATH=/')
+(u'seolytics.de', '"06526c135ca963d53ac3f200e8d00c93"', '_seolyticsR3_session=BAh7CCIPc2Vzc2lvbl9pZCIlNDcwYjkzMjY2ZTg5ZTYyY2E3OWUwZGU0YmM3ZWFmYmEiC3BhcmFtc3sAIhBfY3NyZl90b2tlbiIxMDBSN2ROMEtyNFNrUTdick4rcUtlRlNJbU80M013dlhDdEU2ZjkwOUVIWT0%3D--f88440f5b4fb8a5f697656aeb6fcf54eb1ad9ebe; path=/; HttpOnly')
+(u'zonaprop.com.ar', '"14ecfc-710b-4cdbd456b1000"', 'NSC_apobqspq-bs-xfc-dppljf=ffffffffaf1c371045525d5f4f58455e445a4a423660;path=/;httponly')
+(u'policeone.com', 'ASP.NET', 'p1%5Fviewct%5F6034052%5F1975456=done; path=/, p1%5Fviewct%5F6023193=done; path=/, p1%5Fviewct%5F6012247=done; path=/, p1%5Fviewct%5F6023408=done; path=/, p1%5Fviewct%5F5405504=done; path=/, p1%5Fviewct%5F5544222=done; path=/, p1%5Fviewct%5F5916381%5F5097385=done; path=/, p1%5Fviewct%5F6009779%5F5097385=done; path=/, p1%5Fviewct%5F99026%5F5097385=done; path=/, p1%5Fviewct%5F3899182=done; path=/, p1%5Fviewct%5F2054269=done; path=/, p1%5Fviewct%5F2362904=done; path=/, p1%5Fviewct%5F5482869=done; path=/, p1%5Fviewct%5F5816255=done; path=/, p1%5Fviewct%5F6029637%5F2085605=done; path=/, ASPSESSIONIDSQBQDCRA=BIGBIIGBODNEFLNAHPGJDFFC; path=/')
+(u'datacalls.com', '6666cd76f96956469e7be39d750cc7d9', 'c8dea5792d1b532ab834129b8f926f86=kiuivg17vod2n7hr2bpm78etc3; path=/')
+(u'scottrade.com', '"bc80b9dfbc2cd1:0"', 'TS354152=a6a3f024e86d7485d135aadc7f56663299647a3b215ccf6c50a3215f; Path=/')
+(u'wgu.edu', '"e1f60f62ac36979b6e0d30715dc308ca"', 'SESS72f15f739d0f634aa0421e9d82700b00=31cnmba75s8fvbqksie64b5ir1; expires=Fri, 07-Dec-2012 08:19:33 GMT; path=/; domain=.wgu.edu')
+(u'nahright.com', '"788f44-1f3-4ae6f894d73c0"', 'HAPSESSIONID=WWW6; path=/')
+(u'tiptopjob.com', '""', 'language=ENG; expires=Fri, 14-Dec-2012 00:00:00 GMT; path=/, sessiondate=; expires=Fri, 14-Dec-2012 00:00:00 GMT; path=/, usertype=; expires=Fri, 14-Dec-2012 00:00:00 GMT; path=/, source=; expires=Fri, 14-Dec-2012 00:00:00 GMT; path=/, auth=; expires=Fri, 14-Dec-2012 00:00:00 GMT; path=/, usr=; expires=Fri, 14-Dec-2012 00:00:00 GMT; path=/, testvalue=; expires=Fri, 14-Dec-2012 00:00:00 GMT; path=/, sessionid=; expires=Fri, 14-Dec-2012 00:00:00 GMT; path=/, uniqueuserid=141120124593317973; expires=Fri, 14-Dec-2012 00:00:00 GMT; path=/, ttjcookie=; path=/')
+(u'reviewsforjoomla.com', '6666cd76f96956469e7be39d750cc7d9', '59560404c6c0cc0f7ce0e4fd4ae1e48f=061725d469d112317bf69ae203eafef4; path=/')
+(u'macgeneration.com', '"60a2792-3fe-4ca134e148680"', 'lb1e12=macg2; path=/')
+(u'pokerprolabs.com', '"627de221ac81360f741bd0ed10dde857"', 'ASP.NET_SessionId=2fgrxng4estj2je30pf5hizx; path=/; HttpOnly, Coyote-2-ac100002=ac10001c:0; path=/')
+(u'hipertrofia.org', '"31b3-4ce6d1ffc23d9"', '__cfduid=d0ccc7a0d63076280e39a94914a6b8a321352870291; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.hipertrofia.org')
+(u'dcu.org', '"8aa90c-1208-4ce64e271c180"', 'BIGipServerHA_1_80=2280696000.20480.0000; path=/')
+(u'tunecore.com', '"70af5b723ba030c7dbbef5b36d1f8084"', 'tunecore_id=21f11f95ef53160436822ed3a674fcf1; domain=.tunecore.com; path=/; HttpOnly')
+(u'learnhub.com', '"d175f04ea0e54d911f8a9fdfc4ad794b"', 'landing_page=http%3A%2F%2Flearnhub.com%2F; domain=.learnhub.com; path=/; expires=Wed, 14-Nov-2012 06:06:23 GMT, referrer=; domain=.learnhub.com; path=/; expires=Wed, 14-Nov-2012 06:06:23 GMT')
+(u'hantim.ru', '"f6f9e561ebf6439c9cd1005bd2fc03ba"', '_hunteam_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJWE4YzM4Njk4MTgxMjgwOGEzYTZiZTM1NTg0NDEyMzVkBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMWpwdE9OV2wwbU1QYWJ4WUlIbmhzVCtjbzJqT1VZek1Kc0F4N1JGb1ZIK2c9BjsARg%3D%3D--e5a142b0734517ee9a49e12df02b8b02bfd528be; path=/; HttpOnly')
+(u'crunchbase.com', '"0f9c743c112dae4428b15330465d3f6a"', '_crunchbase_session_id=BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7AA%253D%253D--228fc38f2277f6b933e79aa1e48a4b0b4be95882; path=/')
+(u'ncponline.com', '"1d8090-323-4cdaac92ac380"', 'WEBDMZ=R2280112471; path=/')
+(u'denaihati.com', '"8562-4ce6db4fbca80"', '__cfduid=dce679dad95cf2c3946149deed5bfe8ed1352871887; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.denaihati.com')
+(u'hover.com', '"5ec3d42cb99aab7390006684be3d347c"', '_hover_mainsite_session=873e0631012959e857c0218be1272c4a; path=/; HttpOnly')
+(u'falabella.com.ar', '"0-20e-42f28512"', 'TS680151=d32cf69e6da55d0138b01f757ecc88679450b7d7392edc7450a331b8; Path=/')
+(u'cms-guide.com', '"66ce3c9b9a0ae004f19d329e44651d05"', '_zendesk_shared_session=eyJpZCI6ImI5NDY4Y2ViZWQyYjQwNDRkZmI0NGQzYmMwMTIxZjRlIiwiYWNj%0Ab3VudCI6MTk3MDksInVwZGF0ZWRfYXQiOjEzNTI4NzMzODZ9%0A--69db83d8594dfb337ffc4fec200b24db2b3c7fb0; path=/; HttpOnly, _zendesk_session=BAh7CjoPc2Vzc2lvbl9pZCIlYTczMDkwNWFmMjAyNWVkODQzN2Y0ZThmMWRlOWRhODk6DGFjY291bnRpAv1MSSIOaXNfbW9iaWxlBjoGRUZGSSITd2FyZGVuLm1lc3NhZ2UGOwdGewA6C2xvY2FsZWkG--9d3f1a21b4f13105820f0427aab4684538b5e4cc; path=/; HttpOnly')
+(u'verema.com', '"b0f10cf18268ed0a4a7b8c177945d4af"', '_verema_session_2011_2=8a77af501c8aa8e1a64d45b64670f1c8; path=/; HttpOnly')
+(u'jfa.or.jp', '"31c8c9-4875-4ce6a3e2044c0"', 'NSC_WTO_KI_XXX_IUUQ=ffffffffc3a0e41245525d5f4f58455e445a4a423660;expires=Wed, 14-Nov-2012 06:52:27 GMT;path=/;httponly')
+(u'malaysia-today.net', '6666cd76f96956469e7be39d750cc7d9', '9029d2ee98d7faf4dfd2f5aa89d4c3f2=sj229g0u2k066avhg7ole3cul0; path=/')
+(u'360cities.net', '"c18f06988b94ca8bbed765082c31bc67"', 'logged_in=0; path=/, _360_session=BAh7DDoNc2VjdG9rZW4iLTk2YjU5ZDRhNDA2OGFmNzc3MDFkNzk4MWM3NTI1YjUxNTAwOGU0NTQ6D3Nlc3Npb25faWQiJTY5M2E2ZjgxNDBjMTdkYTg2YjY5Nzg4YWQ0Yzg2MWMxOhhsYW5nX2lkX3RvX3ByaW9yaXR5ewlpBmkAaQdpBmkIaQdpCWkIOhJsYW5ndWFnZV9saXN0WwkiB2VuIgdjcyIHZnIiB3NsOhRhYmluZ29faWRlbnRpdHlsKwgrVfhdAQA6FWxhbmd1YWdlX2lkX2xpc3RbCWkGaQdpCGkJIgpmbGFzaElDOidBY3Rpb25Db250cm9sbGVyOjpGbGFzaDo6Rmxhc2hIYXNoewk6E2xvY2F0aW9uX3RyYWlsMDoKdGl0bGUwOhVtZXRhX2Rlc2NyaXB0aW9uMDoMYm9keV9pZDAGOgpAdXNlZHsJOwxGOw1GOw5GOw9G--1831023562477c19b856f9ddd715962f7d415c6f; path=/; HttpOnly')
+(u'cpf.gov.sg', '"08f52983691cb1:dcd"', 'BIGipServerPool_www_cpf_gov_sg_80_IPv4_RD0=88110283.20480.0000; path=/')
+(u'turkcespiker.com', '"8038a5b7d9fc78f0a540ae6f515354a4"', 'bbsessionhash=af82f3eb76fd20b399a330400a2e2398; path=/; HttpOnly, bblastvisit=1352875452; expires=Thu, 14-Nov-2013 06:44:12 GMT; path=/, bblastactivity=0; expires=Thu, 14-Nov-2013 06:44:12 GMT; path=/')
+(u'bitnami.org', '"323257062a7e56d15f58987c3c0446ba"', '_bitnami_session=BAh7ByIPc2Vzc2lvbl9pZCIlMzA1MjIwYThhZmE2MmQ2ZDViOWQ5NWE3MjRlN2M3MGEiEF9jc3JmX3Rva2VuIjFmdlJqcUd0bGllb2ZGc3RBQlpsa2lLWDZTWCtRY3ZEOXFaNWdwaW5MajE4PQ%3D%3D--f1e0805203c565edc335caa55cefddec8b91246f; path=/; HttpOnly')
+(u'nenonline.org', '"97077ec90dc6c782f386bc609d0d1e90"', 'SESS78dd006e92d9e0f9387e2510533406d0=brk6o8dpb2jnr41aro0tjsmv12; expires=Fri, 07-Dec-2012 10:30:02 GMT; path=/; domain=.nenonline.org')
+(u'xmatch.com', 'TESTBED', 'ffadult_who=r,psTyDoSzT1bO2HWq864YoTAFWTcuqNbRFSJZLjm5XUtuh/ipZ2iyRQzELiuA2rsnwuBAjcleX8JVrn3yybrzNIbzQuks2p4wOH4yD0/FhvgKcvWMRo1gC9NDH2xK6/MSMNqrb3I8THyqa6WbC/DR3Q--; path=/; domain=.xmatch.com, v_hash=_english_8; path=/; domain=.xmatch.com; expires=Fri, 14-Dec-2012 07:00:49 GMT, IP_COUNTRY=United States; path=/; domain=.xmatch.com; expires=Fri, 14-Dec-2012 07:00:49 GMT, ffadult_tr=r,VSFEIFzjso/UczcaGTqtV16jPQcusJ_UDKm5giLy7QMJ6GO5vKZySWoB9fkpBN0Q; path=/; domain=.xmatch.com; expires=Fri, 14-Dec-2012 07:00:49 GMT, LOCATION_FROM_IP=country&United+States&area_code&858&longitude&-117.2073&country_name&United+States&lat&32.8594&region_name&California&country_code&US&region&CA&state&California&zip&92122&city&San+Diego&postal_code&92122&latitude&32.8594&lon&-117.2073&dma_code&825&country_code3&USA; path=/; domain=.xmatch.com; expires=Fri, 14-Dec-2012 07:00:49 GMT, HISTORY=20121113-1-Dc; path=/; domain=.xmatch.com; expires=Fri, 14-Dec-2012 07:00:49 GMT, AB_TRACKING=vIDPLeJJ5q4i4JHwAoDoQy; path=/; domain=.xmatch.com; expires=Fri, 14-Dec-2012 07:00:49 GMT, REFERRAL_URL=; path=/; domain=.xmatch.com; expires=Wed, 14-Nov-2012 19:00:49 GMT, click_id_time=317848505_2012-11-13 23:00:49; path=/; domain=.xmatch.com; expires=Fri, 14-Dec-2012 07:00:49 GMT')
+(u'passagen.se', '"acd7269c64dffa621f641c087e7423fb"', 'SESS1a7cfc2f23f6a8f4fc4f80f503ffb559=3fa16a8ec0a57ae7558517655497ed28; expires=Fri, 07 Dec 2012 10:37:13 GMT; path=/; domain=.passagen.se')
+(u'websteronline.com', '"32271-a23b-4ce596f444940"', 'sc=P; path=/; domain=www.websteronline.com; expires=Thu, 14-Nov-2013 07:07:22 GMT, NSC_xxx.xfctufspomjof-iuuqt=ffffffff094d1a4845525d5f4f58455e445a4a422970;path=/;secure;httponly')
+(u'almanac.com', '"380a117ac3142f8d0d29141468b43542"', 'amfID=; path=/;, amfID=; path=/;, SESS095d323cd8058abaa3a07a4ec41b18d5=1o9n9l4r8p7enjbi5ru9puq0m4; expires=Fri, 07 Dec 2012 10:50:53 GMT; path=/; domain=.almanac.com')
+(u'kurir.mk', '6666cd76f96956469e7be39d750cc7d9', 'e0a40962708247eda61411c0ac893c63=6b32a0915fcd59656c71b2b0a758ddb4; path=/')
+(u'j-motto.co.jp', '"29-a6bd-4cdf8ca45d400"', 'GIF_cookie=251963584.20992.0000; expires=Thu, 15-Nov-2012 07:29:38 GMT; path=/')
+(u'o-minds.com', '"34fd989475c31f15298438e966a50c37"', 'SESS7bfd832645770350cf4a897fc7d5027c=pu22s8chhnl6m2rjf47cfkgeh2; expires=Fri, 07-Dec-2012 11:04:00 GMT; path=/; domain=.o-minds.com')
+(u'yukoyuko.net', '"cbd36c-13f1c-d9cb99c0"', 'Apache=108.197.32.23.1352878872503302; path=/; expires=Thu, 14-Nov-13 07:41:12 GMT')
+(u'stat.gov.pl', '"1b81e-73-b4fb3980"', 'ARPT=KVWMMQS192.168.12.11CKMYO; path=/')
+(u'fotopedia.com', '"5ab97877d3fcdaa188f92b59d842707f"', 'uid=fwAAAVCjTIih2Ao8A43DAg==; expires=Sat, 12-Nov-22 07:47:20 GMT; domain=.fotopedia.com; path=/')
+
+
+Sites with same Set-Cookie:
+(u'mactechnews.de', 'W/"90632ea8"', 'Syn.Module.Login_AccountHash=; expires=Mon, 12-Nov-2012 23:00:00 GMT; path=/, Syn.Module.Login_PasswordHash=; expires=Mon, 12-Nov-2012 23:00:00 GMT; path=/')
+
+
+Sites with problems:
+football-italia.net
+interencheres.com
+j-wave.co.jp
+nctimes.com
+avexnet.or.jp
+allhyipmon.ru
+dornob.com
+glencoe.com
+hdb.gov.sg
+net-addict.com
+actionha.net
+reviewsforjoomla.com
+balatarin.com
+macgeneration.com
+hipertrofia.org
+sinchew.com.my
+dcu.org
+tunecore.com
+learnhub.com
+crunchbase.com
+ncponline.com
+sinchew-i.com
+denaihati.com
+e-rewards.com
+hover.com
+falabella.com.ar
+cms-guide.com
+verema.com
+jfa.or.jp
+360cities.net
+nenonline.org
+wireshark.org
+teuxdeux.com
+mad.ly
+woodlands-junior.kent.sch.uk
+kurir.mk
+j-motto.co.jp
+drupalfr.org
+yukoyuko.net
+fotopedia.com
+
+
+# ETag changed: 32
+# ETag unchanged: 55
+# HTTP status 304: 0
+# Cookie changed: 59
+# Cookie unchanged: 1
+# Err general: 35
+# Err robot: 0
+# Err permission: 5

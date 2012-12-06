@@ -1,0 +1,119 @@
+Sites with same ETags:
+(u'dailychanges.com', '"cc264d27a45d8f120b8046e79e547adb"', 'DTLLCCOOKIE=388023660.1.3047349312.2069463393; path=/')
+(u'snapwidget.com', '"10f792-54c7-4cd9d87a2de00"', '__cfduid=d9962a9b990a05c8a4b203149da031fd31352862972; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.snapwidget.com')
+(u'magtentori.ru', 'e16bb9f0d8ebac8235a042314518fa7e', 'first_current_location=%2F; path=/; expires=Thu, 14-Nov-2013 03:19:15 GMT, first_referer=; path=/; expires=Thu, 14-Nov-2013 03:19:15 GMT, referer=; path=/; expires=Thu, 14-Nov-2013 03:19:15 GMT, current_location=%2F; path=/; expires=Thu, 14-Nov-2013 03:19:15 GMT, 2279bd1c0=BAh7BkkiD3Nlc3Npb25faWQGOgZFRkkiJWM2MWY0NDA4MmU2NTY3ZmMxNzJkZjI2Zjk0Y2M2YTYzBjsAVA%3D%3D--1d6ab2940acce9533adaeed8273b99a7954210be; path=/; expires=Thu, 14-Nov-2013 03:19:15 GMT; HttpOnly')
+(u'yamli.com', '"801306dfcbacd1:0"', 'AWSELB=412D13D518E7E012D63D6C85A979536C9FEB595741BC8C3E8CA77888478DAA7EC9B372D9146DB8E5F422D64681CDEB6FDEF7966AF3861EE9FF7AA6D70E03AC4C96DA5BC08D;PATH=/;MAX-AGE=3600')
+(u'stocklayouts.com', '""', 'ASP.NET_SessionId=qiwsbselgjenh4iyqc3uio45; path=/; HttpOnly, timeOut=campaign=&referringURL=; expires=Wed, 14-Nov-2012 06:22:39 GMT; path=/, touch=firstReferringURL=&firstCampaign=&firstTouchDate=11/13/2012 7:22:39 PM&ownerCampaign=&ownerTouchDate=11/13/2012 7:22:39 PM; expires=Thu, 14-Nov-2013 03:22:39 GMT; path=/, cartGuid={21d44d48-52b7-4a5f-ac4c-7f5d95ed1b73}; expires=Thu, 13-Dec-2012 08:00:00 GMT; path=/')
+(u'inpi.fr', '68fa85441357cf2187afee9deccb78d4', 'fe_typo_user=391ce376a8; path=/')
+(u'mpg.de', '"92a8eb871061a3fd08fd781f0f26fbe4"', '_mpg.de_session=BAh7CSIQX2NzcmZfdG9rZW4iMUJGV2hibm5sNzJmUEFzWmdQekdOa24wRi9zYkdUcWszVEV4QndjRXJLQ3c9Ig9zZXNzaW9uX2lkIiUzN2FiNGYyZGUyNGI1Yjg2MTQwYTRhZDkwOTllMGZhNyINcnNlc3Npb251OhVSZWFjdG9yOjpTZXNzaW9uACIJbGFuZzoHZGU%3D--602fd31c80882d6899ce6adc560600a191848ca6; path=/; HttpOnly, MPG_PersistId=2552188038.20480.0000; path=/')
+(u'gzweix.com', '"d4c4d13e10c2cd1:162aa"', 'virtualwall=vsid=cf0e35a9272c1cf5dd3905d59cc543c0; domain=.gzweix.com; path=/, virtualwall=vsid=cf0e35a9272c1cf5dd3905d59cc543c0; domain=gzweix.com; path=/')
+(u'barelist.com', '""', 'ASP.NET_SessionId=ojhzifskt5uuqo2dxnse5g31; path=/; HttpOnly')
+(u'flagstar.com', '"3a5c8-109fe-4ce6b51521900"', 'home=personal; path=/; domain=flagstar.com; expires=Thu, 14-Nov-2013 03:40:46 GMT; secure')
+(u'linuxjournal.com', '"dbe0696b2030d796dcfd966e679321c0"', 'SESS1dda8a7eaa4dd454d4cc453392f9c0ce=u87d55vqttslrefj8b3e1u4q4al0jkab; expires=Fri, 07 Dec 2012 07:18:10 GMT; path=/; domain=.linuxjournal.com; HttpOnly, mt_redirect=true; expires=Wed, 14-Nov-2012 15:44:50 GMT; path=/')
+(u'travelsky.com', '"15da25-5c4e-4cce350b018e8"', 'AlteonP=348731b134873130baeebab1; path=/')
+(u'vodafone.it', '"2a1-1ba4bd00"', 'SITESERVER=ID=00000000000000000004CE6CA0AA6ED2; path=/; expires=Sat, 12-Nov-22 04:04:14 GMT; domain=.vodafone.it, SITESERVER=ID=00000000000000000004CE6CA0AA6E09; path=/; expires=Sat, 12-Nov-22 04:04:14 GMT; domain=.vodafone.it')
+(u'jobscore.com', '"40250e4490dc329aa447b9e9bb71a2de"', '_jobscore_session=458bd816bbd84a8461f1a82bed5fae0b; domain=.jobscore.com; path=/; expires=Wed, 14-Nov-2012 12:07:15 GMT; HttpOnly')
+(u'roboform.com', '"ca85ee4542838f6fb74350c2c1666c1e"', '_rails_session=BAh7BzoNcGxhdGZvcm0iDHdpbmRvd3M6D3Nlc3Npb25faWQiJWQ3Y2ZmM2M2NGJmZDhlNjg2ZDM3Y2MyZTdmOTA0MmM2--978bbeb91c280cf44062ca6f8249171dfe0cece7; path=/; HttpOnly')
+(u'brecorder.com', '6666cd76f96956469e7be39d750cc7d9', 'd4dad6935f632ac35975e3001dc7bbe8=rfbkfsdr0t17npqgedkoil5cr1; path=/')
+(u'twit.tv', '"e536677bdef443e4956802c7b94b62dc"', 'SESS75d408f2ce389493e4955f4b0d50c557=bon70cp0bf7sl10clvmao88g80; expires=Fri, 07-Dec-2012 07:58:25 GMT; path=/; domain=.twit.tv')
+(u'achetezfacile.com', '"cyrealis-2147483647.68545"', 'shroi_id=053248; expires=Thu, 15-Nov-2012 04:32:48 GMT; path=/, shroi_id2=14053248678923252; expires=Thu, 14-Nov-2013 04:32:48 GMT; path=/')
+(u'destination360.com', '"8758cc5983d1c0a014abc7ddf187c8a0"', '_newrailsapp_session=BAh7BjoPc2Vzc2lvbl9pZCIlYTY4MDI5OWUwYWIxNDUzNjU4NGRkNmY0NWJjMzI5ZTA%3D--4df4792ba30034a05c433d00a6dedb1f02142598; path=/; HttpOnly')
+(u'sena.edu.co', '"ef486a2aeb2fcd1:142f"', 'BIGipServer~portal~pool_portalsena_8080=117512620.20480.0000; path=/')
+(u'optimum.net', '"pv831e60562c1a1588aa4b603fa53708d2"', 'ssuid=1352868951063012355; expires=Saturday, 12-Nov-2022 04:55:51 GMT; Path=/')
+(u'hosei.ac.jp', '"36dc564-56b8-c3c27940"', 'NSC_MCWT_xxx=ffffffff86111f3145525d5f4f58455e445a4a423660;path=/;httponly, citrix_ns_id=jrxoTjChag2DuB24HwNUtj3cLFoA000; Domain=.hosei.ac.jp; Path=/; HttpOnly')
+(u'ivss.gov.ve', '"b4337b0d0c425c46bf207bca25d4bf36"', 'SESSd8d54500280456a026775a5d182c1cf4=dda92458772da4f912c681f0849c148f; expires=Fri, 07 Dec 2012 08:35:17 GMT; path=/; domain=.ivss.gov.ve')
+(u'itsme247.com', '"e837434ed5fcc1:0"', 'BigIPPersistence=2961221824.20480.0000; expires=Wed, 14-Nov-2012 06:08:05 GMT; path=/')
+(u'yoyogames.com', '"96f137c785c4359cc4adf36686a63d85"', '_www_ar_session=45514057ec62f207e9bfa298f113cfd8; path=/; HttpOnly')
+(u'infobusiness2.ru', '"af418819b3a351d2c65d4dd783fe08d2"', 'SESSa95f73eaa9f06bbc57e6dcddc6b72544=d5dfff6b784908cb0dd4121b9de45fb7; expires=Fri, 07-Dec-2012 08:47:32 GMT; path=/; domain=.infobusiness2.ru')
+(u'squarespace.com', 'W/"246246169b025bdb464cdc9e982fce93"', 'JSESSIONID=D135E0BB5E6189BD6727A1DBFE39C581.nyc-webster10; Path=/; HttpOnly, crumb=97d14a6793; Path=/, SS_MID=f6bf0cd0-9dcc-481f-88e2-9755ebcab880h9i009e7; Domain=.squarespace.com; Expires=Sat, 12-Nov-2022 05:17:13 GMT; Path=/, ss_lastvisit=1352870234001; Expires=Sat, 14-Nov-2015 05:17:14 GMT; Path=/, WebPersCookie=MZ4DxRaDWz6xS2+ARM3eYfJ1qMMQoXObQqt0n7u0vvISs3Tbmw+64oTXCTcUJ3iWQKjBcAgqMPxkOQ==; path=/')
+(u'smartcanucks.ca', '"2b672-50a322cd-3fce1"', '__cfduid=db2edfe4a60aef59901dabcf942814c0b1352870420; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.smartcanucks.ca')
+(u'lumosity.com', '"f60615c7e161446c2f0516de471d170b"', '_session_id=af82db56d1e186e8af05167a6bc184bb; path=/; HttpOnly, referral=default_organic_direct; path=/; expires=Fri, 14-Dec-2012 05:26:26 GMT, ll_et3_c=%7B%22id%22%3A%22c1f2b640-152e-4f39-bcad-577b96b9f6f5%22%2C%22timestamp%22%3A1352870786184%2C%22prop_map%22%3A%7B%22http_user_agent%22%3A%22Python-urllib%2F2.6%22%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Fri, 14-Nov-2014 17:26:26 GMT, ll_et3_v=%7B%22id%22%3A%22454ac7f1-6729-4632-b89b-abc8995179c9%22%2C%22timestamp%22%3A1352870786184%2C%22prop_map%22%3A%7B%22ll_channel%22%3A%22direct%22%2C%22ll_source%22%3A%22direct%22%2C%22ip_address%22%3A%22108.197.32.23%22%2C%22referrer%22%3Anull%7D%2C%22_d%22%3A%22.lumosity.com%22%7D; domain=.lumosity.com; path=/; expires=Wed, 14-Nov-2012 05:56:26 GMT')
+(u'point.jp', '"690ff0-412e-4cd8352f461c0"', 'Apache=108.197.32.23.1352870969196611; path=/')
+(u'ibsnetaccess.com', '"41a7-294-7be64a00"', 'TLTSID=D44A33022E1C102E0012EB22A42BDE0A; Path=/; Domain=.ibsnetaccess.com, TLTUID=D44A33022E1C102E0012EB22A42BDE0A; Path=/; Domain=.ibsnetaccess.com; Expires=Wed, 14-11-2022 05:33:33 GMT')
+(u'rnw.nl', '"03adca2d6b63f984dac67bb78717e923"', 'SESS00515183cf865deb30485e3e5c0d00fd=gjmnh7qer1mmgm6laplslrb3k7; expires=Sun, 25-Nov-2012 19:23:15 GMT; path=/; domain=.rnw.nl, balancer://rnw5cluster=balancer.rnw7d')
+(u'ntnu.no', '"3eab8cc5"', 'JSESSIONID=196769A809A870C7DBDF62C7A95E5B53.eksternwebprodnode1; Path=/, GUEST_LANGUAGE_ID=nb_NO; Expires=Thu, 14-Nov-2013 05:39:46 GMT; Path=/, COOKIE_SUPPORT=true; Expires=Thu, 14-Nov-2013 05:39:46 GMT; Path=/')
+(u'gutscheinpony.de', '"d41d8cd98f00b204e9800998ecf8427e"', 'gp=1012b807fa6b757317c15e47d4385f9c; expires=Tue, 09-Nov-2032 05:43:53 GMT; path=/')
+(u'rwth-aachen.de', '19afae75053bd9a21b810a900c7145a6', 'awUILanguage=; expires=Wed, 13-Nov-2013 23:00:00 GMT; path=/, awcssessionid=6ba9d320%2Dffe0%2D497d%2D8e06%2D047350d341a4; path=/, awUILanguage=; expires=Wed, 13-Nov-2013 23:00:00 GMT; path=/; path=/')
+(u'athensvoice.gr', '"c06f69c9c3903a04838654d2980f7a47"', 'SESS22875a637b91c69afdaee626fb94a9a7=irhejf2nnd2035u3trl9c906v1; expires=Fri, 07-Dec-2012 09:23:24 GMT; path=/; domain=.athensvoice.gr')
+(u'freearticleforyou.com', '702e5a9801d2f7a5456e3e1cf4c5c93f', 'd2b0b0213003cb600e48b4b5c52ed94b=dba72d4f6ed1876992e2825c52218e03; path=/')
+(u'openerp.com', '"4e42204be07ea7a3de857c0579244e51"', 'SESS5678b47498213a4e29237288ac773195=102so7tb2cp82vflakhfi4hd95; expires=Fri, 07-Dec-2012 09:32:40 GMT; path=/; domain=.openerp.com')
+(u'gein.cn', '"FlQEZghasirjvO9YQmRH$g"', 'ASP.NET_SessionId=jotdzjd4sjt3k4nunuiz0o5p; path=/; HttpOnly')
+(u'drupalcenter.de', '"a5ea93c03a468d207c6113ca18f38fce"', 'SESS4b4a90f216d43a2c41f88347291a5fbb=8g58ikba7je97rg8nil0dg2jf3; expires=Fri, 07-Dec-2012 09:42:06 GMT; path=/; domain=.drupalcenter.de')
+(u'bedbathandbeyond.com', '"pv6fd0130294224bf6c7daffbeefa3502c"', 'BBBDC=DAL1;path=/;domain=.bedbathandbeyond.com;, TLTSID=43A10E959D535D150AD8F11484C4C761;path=/;domain=.bedbathandbeyond.com;, TLTUID=95CA79D2A4E88F4C4EC42F7823140306;expires=Mon, 07-Jul-2014 06:11:52 GMT;path=/;domain=.bedbathandbeyond.com;')
+(u'giantitp.com', '"1b68101-aab7-59761080"', '__cfduid=df4fb1f6f36178c5ea416aa403d9562941352874065; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.giantitp.com')
+(u'tdb.co.jp', '"14b0330-393c-5b0aee80"', 'INTERNETANY19=c1a86fc951080f09307880006c070000f82a0000; path=/')
+(u'paidviewpoint.com', '"a7cc4d4c7e5c0cc66f0261e7430b5b66"', '_PaidViewpoint_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRiIlM2NmZmZmMTg4NGY1M2QzMzI3NWZhMzFiODUwZjQxYzlJIhByZWZlcmVyX3VybAY7AEZJIgYvBjsARkkiEF9jc3JmX3Rva2VuBjsARkkiMXVYRFNkTStybFIydjZoUVdmWUhneHJXcE4rRkdaa0Iwb3JRbmpRTi9PWlk9BjsARg%3D%3D--412741621cbbfe33094a55542205eefb86363135; path=/; HttpOnly')
+(u'vara.nl', '"e48613-161-42ba327214cc0"', 'http-cookie-VARA_SHREK-PROD=R1527364005; path=/')
+(u'replacements.com', '"66d6f430c4becd1:0"', 'WEBTRENDS_ID=5F714A29DB15BFCA21CCAD56405162C98065EFD0A6902D3CAAA6127C3601B3EB-1352810867.888999938; Version=1; Path=/; Max-Age=31536000; Expires=Tue, 13-Nov-2013 12:47:47 GMT;')
+(u'ucalgary.ca', '"496582-9cc3-c9a71900"', 'BIGipServeri-www-http=2086051720.20480.0000; path=/')
+(u'pcpitstop.com', 'ASP.NET', 'captchaValue=SnCqGKVNBo; domain=.pcpitstop.com; path=/, ASPSESSIONIDSACBSBRS=LOHBFJCBIDFKBGEOKNNAGBMO; path=/')
+(u'uiyi.cn', 'W/"41e7d4610c2cd1:0"', '_uyid=d/5FUlCjPs0Z8wYzLkFbAg==; expires=Thu, 14-Nov-13 06:48:45 GMT; domain=.uiyi.cn; path=/')
+(u'mensfitness.com', '"1352875864"', 'ak-mobile-detected=no; expires=Wed, 14-Nov-2012 12:51:53 GMT; path=/')
+(u'foodspotting.com', '"45755b260cd82df7a4f4ad0438563e22"', '_foodspotting_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRiIlNDdmOGM5ZGUyNWEzNmNlYjQ2YjgwNmM3MWJlYjU1MTdJIg5yZXR1cm5fdG8GOwBGSSIKL2ZpbmQGOwBGSSIQX2NzcmZfdG9rZW4GOwBGSSIxOUNNOTZITjRpU3FPdkwzeHR6TllYMmx6c2FVSHcxMGRiWnlpalZuUUpPcz0GOwBG--eeac0acff03bc57683c9dddfcf88c4a750060d39; path=/; HttpOnly, fst_uid=bKZXzFCjQEFazUiTFf/5Ag==; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.foodspotting.com; path=/')
+(u'gsis.gr', '"2e284-7d10-515f2640"', 'www.gsis.gr.http=R4273214554; path=/')
+(u'drei.at', '"1c35fa4-2d4-4ce0a933bb167"', 'ACEpsePPortal80=R4087980664; path=/')
+(u'gust.com', '"9d0edc6223273e3898d3dfdb7d1870a0"', '_session_id=ce823d3211f6b61254e90bb1701dadcf; path=/; HttpOnly, net.angelsoft.web.Locale=en-US; path=/; expires=Sun, 14-Nov-2032 07:17:31 GMT')
+(u'vol24.fr', '"3c4a0169abe9ee664f025095095bc0cc"', 'MOBILE=false; expires=Thu, 15-Nov-2012 07:20:34 GMT; path=/, VOL24FRSID=7bae099aaaaf052143cceb9373bba9ec; path=/, fstc=cipREg1RUJ3TjdHeWNCRUlXUkJ3UjdFMFdNQndWN0hITUZKeFI2WlFnRUUxWm1Cd0w3SklPREJ3UjdISVNVSElSNlpHZ0dIR2JsQjBxUEQwV1FCd043RDBBUEJ3TjdEeGNURXdaNlpRZ1NGUmNDR3dWNlp3Zj0%3D; expires=Fri, 14-Dec-2012 07:20:35 GMT; path=/; domain=.vol24.fr')
+(u'f-secure.com', '9986329', 'country=US; path=/; domain=f-secure.com')
+(u'dealcatcher.com', '"2b062-50a34757-2d50f"', '__cfduid=dcc2420ab976781753969be79ab7359e81352878003; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.dealcatcher.com')
+(u'3news.co.nz', '"pv3a8e64a4dd79567b76a0b16e8af57a58"', '.ASPXANONYMOUS=c9jkm8v4zQEkAAAAYTUwNzM2NDktYTQ3OC00NDhiLWJmYTktZGQ2MTM3MTIyZmJi0; expires=Tue, 22-Jan-2013 18:09:24 GMT; path=/; HttpOnly, language=en-NZ; path=/; HttpOnly, BIGipServerWWW.3NEWS.CO.NZ=1113893056.20480.0000; path=/')
+(u'uc.edu', '"58915ad318c2cd1:0"', 'uccookie=smM1CEei19y9+2v/dhDiM4dN1DsD1W5sZK87MrBJmhRT/DVUTpTKN7x0cyOxh1eXs9e4o3CAUkvLeOQ=; path=/')
+(u'dduniverse.net', '"b01c8c-4c1-4b7dc9168b72a"', '__cfduid=d151f18ef6d3391aefb0a32bb1525459b1352879121; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.dduniverse.net')
+(u'cinemark.com.br', '"2b1ca9-133dd-4ce6fa45b9640"', 'LWF5=634334651.20480.0000; path=/')
+(u'tillys.com', '"ceb85249aa6ca1:2a96"', 'bIPs=15e08db084e1d5704997dc24560296d5;path=/;')
+(u'cb.com.cn', '"c25266-33dae-ae5f1040"', 'BIGipServercb_pool_1.86_80=1375825098.20480.0000; path=/')
+
+
+Sites with same Set-Cookie:
+(u'f-secure.com', '9986329', 'country=US; path=/; domain=f-secure.com')
+
+
+Sites with problems:
+snapwidget.com
+magtentori.ru
+yamli.com
+gzweix.com
+urbanspoon.com
+flagstar.com
+cinemassacre.com
+travelsky.com
+biletix.com
+vodafone.it
+flysaa.com
+roboform.com
+bizoppers.com
+achetezfacile.com
+destination360.com
+squarespace.com
+epost.ca
+lumosity.com
+point.jp
+peoplepets.com
+wellness.com
+gutscheinpony.de
+rwth-aachen.de
+howaboutwe.com
+gein.cn
+giantitp.com
+tdb.co.jp
+vara.nl
+ucalgary.ca
+musicbrainz.org
+leadership.ng
+drei.at
+vol24.fr
+dealcatcher.com
+3news.co.nz
+uc.edu
+dduniverse.net
+cb.com.cn
+
+
+# ETag changed: 28
+# ETag unchanged: 63
+# HTTP status 304: 0
+# Cookie changed: 61
+# Cookie unchanged: 1
+# Err general: 34
+# Err robot: 1
+# Err permission: 3

@@ -1,0 +1,120 @@
+Sites with same ETags:
+(u'eastgame.org', '"436-4b084fea15440"', '__cfduid=d038974c00077cf1361e86c5f152d37371352862682; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.eastgame.org')
+(u'federation-auto-entrepreneur.fr', '"c02815b6b5607deb3b025b40a04f2002"', 'SESS927bafbf8eeedb11163760723bcbb34d=9kkcqodhv4tspg1am7j19p2he5; expires=Fri, 07-Dec-2012 06:47:44 GMT; path=/')
+(u'citygrid.com', '"6b0b1e1e67308604605824f9a24381e3"', '_cg_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTNlYzEzODc3ZWZkZjE3MjkwYTFhZmExMGNhY2IzMjUwBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtKc3N1UTdWTGdZdWVpVnZPUTVsclhsSkwvSWlZT2lrQnhsanRlaWtaOGs9BjsARg%3D%3D--2f82c777b852a31e92ef9b042ddc26da0315d49f; path=/; HttpOnly')
+(u'optimusid.com', 'W/"1105-1321389500000"', 'BIGipServerwww.optimusid.com=2894899392.14340.0000; path=/')
+(u'2knowmyself.com', '"0df18e714b0a8f2ef3fd3417e955caab"', 'PHPSESSID=q4360vtpd3i4k09cd94cnc3pu7; expires=Fri, 07-Dec-2012 07:00:58 GMT; path=/; domain=.2knowmyself.com')
+(u'speedlauncher.de', '"1fe43459f7dbc4e98dadaddedbbb600f"', 'SESS2f2bd763e575eb2297a70e83ff8e6afd=0b507041d7fbe3cce3716c5fbc72dc46; expires=Fri, 07 Dec 2012 07:04:02 GMT; path=/; domain=.speedlauncher.de')
+(u'smspirat.com', '"79a13c74f508a5450cffe48675ed01ca"', '_production_session=465c3963a4c60845efca12a024d76ea1; path=/; HttpOnly')
+(u'climber.com', '"679bc8b67dc164616b48c54b39608535"', 'source_identifier=; path=/, , bid=; path=/, , cid=; path=/, , _climber_session=d12f47b8901d62d678e0906b5fa638c9; path=/; HttpOnly')
+(u'assistirtvonlinegratis.tv', '"2024591-19b5c-4ce664a14ee34"', '__cfduid=dddaf1f5d9670195eadfc253ca12d50a91352865310; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.assistirtvonlinegratis.tv')
+(u'engineyard.com', '"03c7f375d801114f173b317d9a6ba3f4"', '_engineyard.com_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTg5YzcwODM0MGRhNzQ4OWZlZmFlNzFmNzI4ZDcyMjJiBjsAVEkiFWV5X3Nzby5yZXR1cm5fdG8GOwBGSSILL2FkbWluBjsARkkiEF9jc3JmX3Rva2VuBjsARkkiMSsrbUVRWC91SzNRVzUrd1ZGNXhtM3NSQ1dVY1ErOTB4T1EzWFB6d0VRVUk9BjsARg%3D%3D--13f42d5b35e6b16ade72b90036f774a6fc15bbe8; path=/; HttpOnly')
+(u'autismspeaks.org', '"1352863492"', 'incap_ses_104_7596=dAKZBeIwETBJ3XUq7HxxATQ9v/WbteUFIayxtCnx/vE=; path=/; Domain=.autismspeaks.org, visid_incap_7596=EzGaDEKrR3qZUaqTMe1N5U8Xo1AAAAAAAAAAAAAAAAAiC87NkfCTBr5VKp20LZMR; expires=Thu, 13 Nov 2014 17:25:25 GMT; path=/; Domain=.autismspeaks.org')
+(u'commission.bz', '"7e94eb263f4dcc1:0"', 'BIGipServercommission.bz=537005066.20480.0000; path=/')
+(u'tamoligado.net', '"1442133-355b-4cb8cba72d85a"', '__cfduid=d7daba9b62666441f36e755e00494f4bd1352866104; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.tamoligado.net')
+(u'digitalcamerainfo.com', '"ae514383b2c3ac063cbd3c53010864db"', '_reviewed_cms_session=6fbc123e78abeb43d24f50411be59a1c; path=/; HttpOnly')
+(u'skylines.io', '"775d05b072112bf465aeffd65aee6bce"', '_widget-site_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJWI1NjAxNTIwNjBiOTY3MDYzYWFhMDE2MThmNGE3OGUxBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUpnenE3aVhrTDB1andDNjk0Q25qVmx0NklMVGNRNWk1ZmpzT1l5Qi8zbjg9BjsARg%3D%3D--e150462bef297c7aab894ba8c35fd3093ce4581a; path=/; HttpOnly')
+(u'journal-officiel.gouv.fr', '"45f1b87-5be4-4ce4e13dc80b8"', 'stroute=e3e5fc4b4dbd50b0772d9c50a74d3def; Path=/')
+(u'publishyourarticles.net', '6666cd76f96956469e7be39d750cc7d9', '447b3ace81edbe1d23cbbe6206246577=9fb565518cb020029bc98a16f8f82d0a; path=/')
+(u'specialbookmark.com', 'c800ce5159603007e65de9e3c39fd3ed', 'bb202617b2306f67490a8fc2b72abfdd=b8212752ffd00c8c20563ac8db59a67b; path=/, business11_tpl=business11; expires=Mon, 04-Nov-2013 04:40:14 GMT; path=/')
+(u'muzyaka.com', '"2572b2b75fc664acae8fbf11a60cb849"', '_muzyaka_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTJjN2QyNWZmZTRhMjEwZDJhMmU3ZTFkNjFjMmZhNzc2BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUdCRU1SOFVPZWZEem51WUpSc3UwOXZ6NUFJbTIrMDJMY3dBeWlXdjVDQzg9BjsARg%3D%3D--f2a7257c1c1e7366fdfaad64cbb3a65f4ba9c49d; path=/; HttpOnly')
+(u'banxico.org.mx', '"2cb355128c1cd1:0"', 'ORF_wwwBanx=1347831466.20480.0000; path=/')
+(u'sipnet.ru', '"91d80c3bd28174512658d10a0b1afa84"', 'SESS8fe1d987ea3e64cd5af3a989f5e6b501=qpratbo5t1jkrc652nejqs8ip2; expires=Fri, 07-Dec-2012 08:27:02 GMT; path=/; domain=.sipnet.ru')
+(u'cpsc.gov', '"e81ab131f2c1cd1:33c56"', 'ZNPCQ003-32383500=a32809ae; path=/; domain=.cpsc.gov')
+(u'lang-8.com', '"01bad8e73fa48744b6372aee16feeee6"', '_lang-8_rails_session=BAh7BzoPc2Vzc2lvbl9pZCIlN2U4NTY0Y2I0YWUxNjY1MmEyM2ExNzA2OWQzMmIxY2I6EF9jc3JmX3Rva2VuIjFFSVNSQVBwZEg2VWtnU0YvTCszdlFKdDg0NkRpT1NpNjBmWGQzNXdrT2pFPQ%3D%3D--766a85edee24146245b0b57b3b726f86da679c42; path=/; HttpOnly')
+(u'gomiso.com', '"be8ddfee5f6ed46a768bea092ff75322"', '_miso-session-memcache=b0bd5adc6ecd985a39af51fede178540; path=/; expires=Wed, 14-Nov-2012 10:06:59 GMT; HttpOnly')
+(u'hkex.com.hk', '"012715b7410cd1:0"', 'AlteonP=3e45b9f93e45b9f0baeeba9f; path=/')
+(u'jrank.org', '"9b44b0b42b4ef319bf3349026ac72646"', '_jrank_session=2e0457be0f946b3e6669693729a75bc2; path=/; HttpOnly')
+(u'wrongplanet.net', '"jpd-4047952244.65854"', '__cfduid=de87325e7628cc0665f40a2d852b3784d1352870164; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.wrongplanet.net')
+(u'natabanu.com', '2c0187b8225c556ddea9e68e268f2bd3', '364c2da432c842a7aa99acafd5482ec6=0b1d2ba898297aaec90ec5d75d4d33fd; path=/')
+(u'blokker.nl', '"183c018-a1-4c544e8dba780"', 'BIGipServerblokker2-inet-http=55580938.20480.0000; path=/')
+(u'andromo.com', '"57dbd672887bae0bb4f44127c69b8e4c"', '_andromo_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRiIlNjAzYzg2OTYwMWFmYjFhZGRlNDRiM2EzYWY0OWE4M2FJIhBfY3NyZl90b2tlbgY7AEZJIjFvQndzUFRtYnMyWjhBY3JzTXVMNWFld2EzMS9CeTFGZVhZU0g4WEM1cDRJPQY7AEY%3D--0aea16f967cfae98a18315d34a60f742c0c92863; path=/; HttpOnly')
+(u'distintas.net', '"82d3dc5c498244f5e56f243e225f7a52"', '_distintas_session=BAh7BjoPc2Vzc2lvbl9pZCIlN2MyMDg4N2UxZDEwMTA4OWEwOTk4MTczYzk3MmMwZWM%3D--13ab467589c8759a350a92ae6b2c584a46df42a0; path=/; HttpOnly')
+(u'official.fm', '"92d2c70c9bc7815dfeaf5e97f8a13b94"', 'dashboard_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJWQyMzU2M2Q4MjhlMmQ1OTI5YzJiMTUzZjAwYmM5YzBmBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXMzN3ZlWFp1UmcxMkdlTWl4VEdJb3cyVk1SRVJMQnJDSTIrN0ljSXVvTmM9BjsARg%3D%3D--16865b98cbebe8b24e3b908d2157165654cdbef7; path=/; HttpOnly')
+(u'trello.com', '788e9bb6580464f5df193f4acfd2e2b8', 'sup=1; path=/; expires=Thu, 14 Nov 2013 05:38:41 GMT, connect.sid=TLJ0ydM7FICFZ2Q7SW3LG2w7.brxzWf%2BNp78u6QpoS1xTYDv5pClixkF7BJQjpNbPxAk; path=/; httpOnly')
+(u'mobilewap.com', '""', 'ASP.NET_SessionId=iztv3yrrds2uhb55yy4ox055; path=/; HttpOnly')
+(u'artemperor.tw', '"6e68713836c32a06bae4f09facae6d8e"', '_ArtEmperor_session=BAh7BzoQX2NzcmZfdG9rZW4iMTVhMW9ROERLQzM2Nm1hV2ZjOVdCRlFlRXcwQXFqY3NBZ1RRWXZySlRHbE09Og9zZXNzaW9uX2lkIiUyNjNmY2VjM2NmY2NjYTlmZTZiYjJhZGY1MTBjMGQ1ZA%3D%3D--7afc24d9e4eaac79df7ab6909aa929894ddb3adf; path=/; HttpOnly')
+(u'stats.gov.cn', '"23d8b-1418f-e9c2e352"', 'AD_RS_COOKIE=20080910; expires=Thu, 15-Nov-2012 05:47:51 GMT; path=/;')
+(u'gohappy.com.tw', '"4a3ee-4ce6d73f473c0"', 'NSC_QH_WTsw-10=ffffffff0969071d45525d5f4f58455e445a4a423660;path=/;domain=www.gohappy.com.tw')
+(u'baymard.com', '"4989555e6a8b3456e31bbab68195ea4a"', '_grand-central_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJWJhZTAxNGI0YWYyZTA4N2VjZWMyYzhmMDlkMmVhNmM4BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMW5kRjlndWJIRnIwQ2dtbWdRMWtMQWJpV0Q0ZjFVNkZ0RlpJUlBVSkRiczg9BjsARg%3D%3D--996fe791889d6e345f029b967e90a6b033f653a5; path=/; HttpOnly')
+(u'misumi-ec.com', '"888430c172b4ca1:1572"', 'BIGipServerp_gwos-web=2556695468.20480.0000; path=/')
+(u'woluck.com', '"2022577687c1cd1:13b7e"', 'SafedogIISAuditor=3C6286B9F10F4CFE0EEA534ADF6FB296; domain=woluck.com; path=/')
+(u'yiji360.com', '"6a2d1f76edbecd1:3445"', 'SafedogIISAuditor=76F25418324F887DED8E9F0DE9B35E1D; domain=yiji360.com; path=/')
+(u'allvoices.com', '"30e835-32851-4ce6e40291040"', 'NSC_bw-xfc-qspe-qvcmjd=ffffffff09591d4145525d5f4f58455e445a4a423660;expires=Wed, 14-Nov-2012 06:14:44 GMT;path=/;httponly')
+(u'95559.com.cn', '"pv77e3d2b575d2d1182683d4a121cc7f41"', 'bankcommportal=/KjuaZRHmcZNrPdUt5ZdTfBdqJXnpilF9USSVvG+Wj8JqF8qs+QMmnTFIbA0nXXk+zNm4gwJbUOQJ64=; expires=Fri, 16-Nov-2012 06:15:48 GMT; path=/')
+(u'linkfeed.ru', '"2e2fdbd860234b43bee9bb216b114120"', '_session_id=BAh7CToPc2Vzc2lvbl9pZCIlNmQzMTM0NjBmYmM5NjllNTQyYjdlYTRkNDFjMDYxYTc6DHJlZmVyZXIiADoLbG9jYWxlIgpydS1SVSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA%3D%3D--ef538b1e47be0604d7db76e0d6c0d38a31e0cdc3; path=/; HttpOnly')
+(u'odesk.com', '"98032a6fb6b0234b41b3ec6beb6a93ef"', 'visitor_id=96.17.155.161.1352874672815369; domain=.odesk.com; path=/; expires=Mon, 13-Nov-2017 06:31:12 GMT')
+(u'qantas.com.au', '"cfa08-90e-484036da2d980"', 'webserver=server11;path=/; domain=.qantas.com.au')
+(u'digitalriver.com', '"417-4739f61d"', 'BIGipServerp-atl-pod4-pool1-staticonly=855769354.260.0000; path=/')
+(u'hafiz.gov.sa', 'W/"530-1318684503000"', 'NSC_Ibgja-IUUQ=ffffffffc3a01f4945525d5f4f58455e445a4a4229a0;expires=Wed, 14-Nov-2012 07:46:50 GMT;path=/')
+(u'lomadee.com', '"1d69e7-43bd-4ce63c7cc9400"', 'BIGipServerpool_lomadee-front_80=2366247084.20480.0000; path=/')
+(u'ono.es', 'e9375874', 'JSESSIONID=D3066C284DA47A4940FBA081E0AFC5EF.app03; Path=/, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 14-Nov-2013 06:58:46 GMT; Path=/, COOKIE_SUPPORT=true; Expires=Thu, 14-Nov-2013 06:58:46 GMT; Path=/, ptnid=Mjg4MjUxOTI3; Domain=www.ono.es; Expires=Sun, 13-Jan-2013 06:58:46 GMT; Path=/, cvars=deleted; Domain=www.ono.es; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, accidecare=deleted; Domain=www.ono.es; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, COOKIE_SUPPORT=true; Expires=Thu, 14-Nov-2013 06:58:46 GMT; Path=/, ptnid=Mjg4MjUxOTI4; Domain=www.ono.es; Expires=Sun, 13-Jan-2013 06:58:46 GMT; Path=/, cvars=deleted; Domain=www.ono.es; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, accidecare=deleted; Domain=www.ono.es; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/')
+(u'cyberlink.com', 'W/"64495-1352869580067"', 'JSESSIONID=0479A4C09FE3045B159AA968357D36CF; Path=/, lang=ENU; Domain=.cyberlink.com; Expires=Tue, 11-Aug-2015 07:01:54 GMT; Path=/, CLCUSTOMERLANG=ENU; Domain=.cyberlink.com; Expires=Tue, 11-Aug-2015 07:01:54 GMT; Path=/, B-locale=en_US; Domain=.cyberlink.com; Expires=Tue, 11-Aug-2015 07:01:54 GMT; Path=/, ENU_nLangIdAndLocale="1,en_US"; Domain=.cyberlink.com; Expires=Wed, 20-Feb-2013 05:01:54 GMT; Path=/')
+(u'dlisted.com', '"2498674c0fdf69938f0de86398e7811b"', 'PHPSESSID=b3b6g7c6rtr3tf1r3ppo8pmmk2; expires=Fri, 07-Dec-2012 10:34:06 GMT; path=/; domain=.dlisted.com')
+(u'hemnet.se', '"986a6ff36ad6793eccf0f8598f2aa055"', '_hemnet_session_id=b217a82510d6bedadae7b4c595565db0; domain=.hemnet.se; path=/; expires=Thu, 15-Nov-2012 07:11:04 GMT; HttpOnly')
+(u'impressrd.jp', '"9fca2de15a85acde5c92602664ba9fcb"', 'SESSb9ac43a17d654ba15c9c124148b439ae=4452e74f32fc04ee515a59b721724be1; expires=Fri, 07 Dec 2012 10:47:28 GMT; path=/; domain=.impressrd.jp')
+(u'mangocity.com', '"4dde27-1b1e6-7edc4fc0"', 'SessionID=10.10.130.100.1352877635134737; path=/; domain=.mangocity.com')
+(u'shareaholic.com', '"92af1e5c07707fb499f1afa8e02f9f6b"', '_shareaholic_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTEwOTllNzJhZGY4OTBjNjQyNGJlMDUyNmQ5ZjVjZmZkBjsAVCIQX2NzcmZfdG9rZW5JIjFiaWxIaFhmNk9uWFRhNkt0cktMUk8zdlIrRGhLbXFVVndHY0tYOG5HRkhBPQY7AEY%3D--548254a45f1b51b3f52d5c1e41ee8d1a9cbc5439; domain=.shareaholic.com; path=/; expires=Thu, 13-Dec-2012 17:18:59 GMT; HttpOnly')
+(u'betanews.com', 'b8781bab44462bb00b460116134a5c25', '6666cd76f96956469e7be39d750cc7d9=1352877967; expires=Wed, 14-Nov-2012 08:26:07 GMT; path=/')
+(u'cimbclicks.com.my', '"ccf1-1ad4-33bacb00"', 'cimbclickscommy=522168512.20480.0000;secure; path=/')
+(u'mustseeindia.com', '"9ba79199f6abdeba22b8a75d4a60af14"', 'admobuu=973134d1e4b4baff1164e8cd6c0a439f; domain=.mustseeindia.com; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT, , _uid=4b67d78c70231cd675e4219fd8bf5799077c34da%3A767666917060676%3A%3A0%3A0%3A0%3A0%3A0; domain=.mustseeindia.com; path=/, _travel_session=BAh7CjoLX3BhZ2VzIgA6B2lwIgl0cnVlOhRwb3B1bmRlcl9wb3BwZWRGOg9zZXNzaW9uX2lkIiVjOWVjYzU3YmFmYTE1ODQzMzQ3YTI5YWY4NGRhMDRjMzoTYmxvY2tlcl9wb3BwZWRG--c6571b60d8b676a08d5be05a60b37b9b51759343; domain=.mustseeindia.com; path=/; HttpOnly')
+(u'talanews.com', '2a303506913482fd5570e11536fd8fce', '433959091a9ffaceb43b359f78d15375=49b772b1a9e0156271f7acfb80d32661; path=/')
+(u'hotwords.com', '"b43aa6a7ce41a8e3416315144608a1e5"', '_hotwords_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJWNhZWMzZmEyODQ2ZGZkZDQzZjBkYzM4Njc1NzYxZmZkBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMWo5T0R3OG1LWDFmQnJTQURoajVDOGk3eVI0QWNULzdDNTJhcjl6RjEvK1E9BjsARg%3D%3D--14d05152528f88f963fb687620232c7b6de32dca; path=/; secure; HttpOnly')
+
+
+Sites with same Set-Cookie:
+(u'blokker.nl', '"183c018-a1-4c544e8dba780"', 'BIGipServerblokker2-inet-http=55580938.20480.0000; path=/')
+(u'gohappy.com.tw', '"4a3ee-4ce6d73f473c0"', 'NSC_QH_WTsw-10=ffffffff0969071d45525d5f4f58455e445a4a423660;path=/;domain=www.gohappy.com.tw')
+(u'qantas.com.au', '"cfa08-90e-484036da2d980"', 'webserver=server11;path=/; domain=.qantas.com.au')
+(u'bleacherreport.com', '"eb1ef2b767811661eefddfebd0e7e63c"', 'partner_id=; domain=bleacherreport.com; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT')
+(u'whitehouse.gov', '"1352874055-0"', 'd=w; path=/; domain=.whitehouse.gov')
+(u'betanews.com', 'b8781bab44462bb00b460116134a5c25', '6666cd76f96956469e7be39d750cc7d9=1352877967; expires=Wed, 14-Nov-2012 08:26:07 GMT; path=/')
+
+
+Sites with problems:
+eastgame.org
+freepbx.org
+optimusid.com
+2knowmyself.com
+icams.com
+assistirtvonlinegratis.tv
+autismspeaks.org
+commission.bz
+avandeo.de
+tamoligado.net
+digitalcamerainfo.com
+lookoutmovies.com
+ibcbet.com
+globrix.com
+journal-officiel.gouv.fr
+malaysiandigest.com
+banxico.org.mx
+rapgodfathers.info
+gomiso.com
+hkex.com.hk
+peoplestylewatch.com
+distintas.net
+trello.com
+stats.gov.cn
+woluck.com
+yiji360.com
+95559.com.cn
+athome.co.jp
+odesk.com
+digitalriver.com
+ideeli.com
+cyberlink.com
+hemnet.se
+avg.com
+mangocity.com
+mustseeindia.com
+
+
+# ETag changed: 28
+# ETag unchanged: 61
+# HTTP status 304: 0
+# Cookie changed: 58
+# Cookie unchanged: 6
+# Err general: 32
+# Err robot: 0
+# Err permission: 4

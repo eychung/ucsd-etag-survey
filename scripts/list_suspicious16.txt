@@ -1,0 +1,75 @@
+Sites with same ETags:
+(u'bioware.com', '"4b632abcadf53a93ef246de8b7ed7548"', 'SESS8aaa6a26bf0784715af854024c234385=g18c4gfuap3v7g4rb5nof5hho1; expires=Fri, 07-Dec-2012 06:51:11 GMT; path=/; domain=.bioware.com')
+(u'bookofsex.com', 'TESTBED', 'ffadult_who=r,23eF0Jz7R9_kruxVEVS6MwLYo0u7l78ahe5rQH6M2Oq43oczZvQrE8pjxN7mRGd2DDH1w7ZI3bCOhQULPY1N0hoLDZKMR19oKt0R61UfDIycbN_ZMEEUx2uzNpkUuGbB6GO2EWGvtLnnc36d7eROgQ--; path=/; domain=.bookofsex.com, v_hash=_english_29272; path=/; domain=.bookofsex.com; expires=Fri, 14-Dec-2012 03:20:54 GMT, IP_COUNTRY=United States; path=/; domain=.bookofsex.com; expires=Fri, 14-Dec-2012 03:20:54 GMT, ffadult_tr=r,Bzmd8epZzYPA7HDn7rQLljLnYaTk34BwD9RJyU4byQwJ6GO5vKZySWoB9fkpBN0Q; path=/; domain=.bookofsex.com; expires=Fri, 14-Dec-2012 03:20:54 GMT, LOCATION_FROM_IP=country&United+States&area_code&858&longitude&-117.2073&country_name&United+States&lat&32.8594&region_name&California&country_code&US&region&CA&state&California&zip&92122&city&San+Diego&postal_code&92122&latitude&32.8594&lon&-117.2073&dma_code&825&country_code3&USA; path=/; domain=.bookofsex.com; expires=Fri, 14-Dec-2012 03:20:54 GMT, HISTORY=20121113-1-Dc; path=/; domain=.bookofsex.com; expires=Fri, 14-Dec-2012 03:20:54 GMT, AB_TRACKING=YHdoHh0Wjvw8NDrdVH0QIb; path=/; domain=.bookofsex.com; expires=Fri, 14-Dec-2012 03:20:54 GMT, REFERRAL_URL=; path=/; domain=.bookofsex.com; expires=Wed, 14-Nov-2012 15:20:54 GMT, click_id_time=1954343015_2012-11-13 19:20:54; path=/; domain=.bookofsex.com; expires=Fri, 14-Dec-2012 03:20:54 GMT')
+(u'p30day.com', '6666cd76f96956469e7be39d750cc7d9', '40be1c477b055d1052570fc5001b3d12=cf1fab86c7f7323e8ca74f38aa951bd5; path=/')
+(u'teamtreehouse.com', '"a3acbe10d0486b9e6ca2332f2134a9ef"', 'vid=11818930; path=/; expires=Thu, 14-Nov-2013 03:26:32 GMT, _treehouse_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTA2OTNiYWNlYzBmODgyNzQ0YjZjMDEyMzA4ZGU5ZDYzBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMU9HTzRaUVhVeE9ieWgrWFJtSjdjUngyYmlnUVZqYVhtMDlSaFFWYkhLZ289BjsARg%3D%3D--0440443fa6caa098e7ea81f98c5e30cb6f64b850; path=/; HttpOnly')
+(u'sncf.com', '"226bae5a44e5bdcb129027f4a994925f"', 'SNCCACHE=sncvitp11var; path=/, SNC_city=LIL_PRD1; path=/; domain=.sncf.com')
+(u'manageyourloans.com', '"cea8a2419f6c11:0"', 'TLTSID=B806A6594C3E2C3E8C754F95E737528F; Path=/; Domain=.manageyourloans.com, TLTUID=B806A6594C3E2C3E8C754F95E737528F; Path=/; Domain=.manageyourloans.com; expires=Wed, 14-11-2022 03:33:08 GMT')
+(u'alt.com', 'TESTBED', 'bdsm_apr=1; path=/; domain=.alt.com; expires=Fri, 14-Dec-2012 03:36:10 GMT, bdsm_apr_session=1; path=/; domain=.alt.com; expires=Wed, 14-Nov-2012 03:41:10 GMT, bdsm_who=r,LPobHZAnKaG359tIkWLXKLuJTymaDiTtm4wqhfx1jnr1Js/cIkAJwehYRR2s2tTOFgYHyOvpLWH4vh3kiMOZV/bLXiDs/oRt8PKW8GQ0VNhsw8eKkxwYuDtCB7wyv1S6; path=/; domain=.alt.com, v_hash=_english_0; path=/; domain=.alt.com; expires=Fri, 14-Dec-2012 03:36:10 GMT, IP_COUNTRY=United States; path=/; domain=.alt.com; expires=Fri, 14-Dec-2012 03:36:10 GMT, bdsm_tr=r,PZTWYnrDW9lZsuC2Q/2KAj7ax/ScU0CterFAGCh2mfRXoa3U1BQIK3hz/TRj6Iku; path=/; domain=.alt.com; expires=Fri, 14-Dec-2012 03:36:10 GMT, LOCATION_FROM_IP=country&United+States&area_code&858&longitude&-117.2073&country_name&United+States&lat&32.8594&region_name&California&country_code&US&region&CA&state&California&zip&92122&city&San+Diego&postal_code&92122&latitude&32.8594&lon&-117.2073&dma_code&825&country_code3&USA; path=/; domain=.alt.com; expires=Fri, 14-Dec-2012 03:36:10 GMT, HISTORY=20121113-1-Dc; path=/; domain=.alt.com; expires=Fri, 14-Dec-2012 03:36:10 GMT, AB_TRACKING=rOkkOuVIFUDf2XPIFtE51o; path=/; domain=.alt.com; expires=Fri, 14-Dec-2012 03:36:10 GMT, REFERRAL_URL=; path=/; domain=.alt.com; expires=Wed, 14-Nov-2012 15:36:10 GMT, click_id_time=662339572_2012-11-13 19:36:10; path=/; domain=.alt.com; expires=Fri, 14-Dec-2012 03:36:10 GMT')
+(u'ok168.com', '"cec08c4059c1cd1:1219"', 'virtualwall=vsid=2239f1dc16e1aab8b1eeb07b3c7da83e; domain=.ok168.com; path=/, virtualwall=vsid=2239f1dc16e1aab8b1eeb07b3c7da83e; domain=ok168.com; path=/')
+(u'hitleap.com', '"3529b379a5c0a5be449e1541156aac68"', '_hitleap_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTBkNGU3MmYzYThmOTk5ZjI0ZGZjN2NmMWEwZDZmNzlmBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMTVoZHZGVTBLTGJ0c0ErSCs3cDVnekxZaVltVzBGRVVCSkl3SmNZUHVRa2s9BjsARg%3D%3D--287e6c5e5889478d90a2131ba711fb7ead70cbee; domain=.hitleap.com; path=/; expires=Sat, 13-Nov-2032 19:32:53 GMT')
+(u'fgv.br', '"f7c6ecc811b69b7a3d219a7368bc5760"', 'SESSe74ecf6e42eafa898aa0c7b75399e5ca=g8o03lki2m23b6qtgfvus47hp2; expires=Fri, 07-Dec-2012 07:21:50 GMT; path=/; domain=portal.fgv.br')
+(u'morhipo.com', '""', 'ASP.NET_SessionId=ejfagko5eo15fox20s4ligwu; path=/; HttpOnly, MS:GUIdSK=7SrO6I55QH4IvQra/6L1x614oYBkvrahgTnw0T0t9eHa27skVWV8xw==; domain=www.morhipo.com; expires=Wed, 21-Nov-2012 03:51:38 GMT; path=/; HttpOnly')
+(u'moviepilot.de', '"1cb9672a6f922496954fc6e949570625"', '_mp_session_moviepilot=e30%3D%0A--eyJzZXNzaW9uX2lkIjoiUmVMLzFDRDUraFlCWUxqOWdWQUYreEJMRU5jdW5r%0AWDcrU050R1QzL1dRMDF2Mk45TDdXdldHWkdTdDM5XG5LR3poWitqbXVzZ1dU%0AZHNENTVmUmhUWHVZb0ErbWxRaVFzWEtFM2VibUxYeVU5ZmpoL3d2eVI3QXRI%0Ab1lcbkxvOUlxTHFRbm0vRUl0ZVNlTkh0K0ZHeXBTOWhNbnIzYVRxaFZTb0Rl%0AQWdJNWxUbkh2TTV1WjVTY0R4RFxuM0RJTGY4K0pKN2sxaU5CZXE4dFEvRm03%0AZUR3VEswN3RpZFdhTEhRWnBzMWtuTkhVbVZvNktaaHJoWHpKXG5hUTZYS2Qz%0AdC9Mcnl1Ry9QQThXUXRGMFBwZGY0a3pPU2VlOUxkTGJQNFIrZ05IV2hLTEFJ%0AY29CN2ZUMWpcblFjaGVHa3RLUUpNcGRJeFdlYVIvWVdGNmxTdFRWRnRxeWhx%0AN2RHN0MrQT09XG4ifQ%3D%3D%0A--43d888f2ecbd4aaf376004b69c4714d291ad004d; path=/')
+(u'd.cn', '"2cc767d-20e1a-4ce6ca386064b"', 'NSC_xxx..e.do=ffffffffd09b1b9e45525d5f4f58455e445a4a423660;path=/;httponly')
+(u'mamashai.com', '"9a6d824d24d2d0601cf94ba8ec9b70df"', '_ttt_session=BAh7BjoPc2Vzc2lvbl9pZCIlYmM2ZTcxMDdmNzMwNTYyYzg4MzljYTZiMDZhMWUyMWM%3D--a9bbec0c89ea1b4748177882c391d5d84fb2abbe; path=/; HttpOnly')
+(u'peopleclick.com', '"fc30c8382d9d462691c8a96e94bcf92a"', 'SESSd7a5455e4c652cd7788aac26591fed06=9ih0s33fcplfd7v0f2c09ss782; expires=Fri, 07 Dec 2012 07:46:48 GMT; path=/; domain=.peoplefluent.com')
+(u'ubuntuusers.de', '"6c6af09df0f2b48fa47f902a892ac6e1"', 'session="gAJ9cQAoVQ9fc2Vzc2lvbl9leHBpcnlxAUsAVQNzaWRxAmN1dWlkClVVSUQKcQMpgXEEfXEFVQNpbnRxBooQ6hrKb8eDrIQkQTgru5gQJXNidS4:1TYURq:4uuqkEoZG1Pm4nEWxq0FlcMfljk"; Domain=.ubuntuusers.de; httponly; Path=/')
+(u'libraryreserve.com', '""', 'ASP.NET_SessionId=idicicwkfrukrdhj0jlaj15h; path=/; HttpOnly')
+(u'ckeditor.com', '"e590d7fc5df2f73a47e886c6807c0ba3"', 'SESSa7b4ad72dac87841a3ac09b5bc111a17=85721995d6278955392fd599f6d1adf7; expires=Fri, 07-Dec-2012 08:05:15 GMT; path=/')
+(u'posterous.com', '"9dde6691d62bb3e2048ba87d8abcb90d"', '_sharebymail_session_id=4959521577f017aa0dca3ac47beccff5; domain=.posterous.com; path=/; HttpOnly')
+(u'songspk.info', '"1d09048-c3af-4cd562f763480"', '__cfduid=dd26de2b9452ca17f2efd4fd87b4ab1791352867885; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.songspk.info')
+(u'newrelic.com', '"479eb6bf839d5fa706c567d86d371d02"', 'secure_storefront_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTQzYjAwY2U2NmU1ZGJhNjBmZDhhYWY4ZjNjY2RjNmVkBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMU45bU5haEZvQzVyVmdSczFIQjV2U0Q4bHAwVnNNWk5IbnJGbDFnZVFaT0E9BjsARg%3D%3D--3f7c2968828870e8bba834a873bdcc9c201f7c26; domain=.newrelic.com; path=/; HttpOnly')
+(u'podio.com', '"500ba1cfbdb19ce5987f595c8f9b6eac"', '_company_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTgwMjhmN2FkMmI1ZjBhZDNiNWNjYmNmMGEyZWYwNzdkBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMVk5eXMxQk5LSW1YcElLRlVoazRWcXZoaFBjNTJtNFViVFhMRTVOb0tCV0E9BjsARg%3D%3D--7571c74cfa00bdaa0408a9c6ecc1bf995813cf24; path=/; secure; HttpOnly')
+(u'vui.vn', '"qcd--1019231521.84658"', 'PHPSESSID=gb79ahuf8dvvi58cppvrus4nc6; path=/')
+(u'totalping.com', '6666cd76f96956469e7be39d750cc7d9', 'PHPSESSID=0bd3002701b5fe252a3127e63828e0fb; path=/, c1005299049=ES; expires=Fri, 14-Dec-2012 04:52:02 GMT; path=/; domain=.totalping.com, c113773156=1; expires=Fri, 14-Dec-2012 04:52:02 GMT; path=/; domain=.totalping.com, c1828532414=%2F; expires=Fri, 14-Dec-2012 04:52:02 GMT; path=/; domain=.totalping.com')
+(u'stepashka.com', '"64cde31130332b34e8c12dbba6a845df"', 'SESS61d760cde8d38b50993238e4a0fabfe9=8fbojc71lo74696b3rjkmo74d0; expires=Fri, 22-Feb-2013 04:56:49 GMT; path=/; domain=.stepashka.com')
+(u'telusmobility.com', '"pv890604134b807f7a0a1afaba2424c34f"', 'BIGipServerP_TELUSMOBILITY_WWW_PROXY=2465142700.33286.0000; expires=Wed, 14-Nov-2012 05:39:49 GMT; path=/, TS7c8f70=67188716a321484205636f822f6d160423f8a51c756927da50a3279db233ee43f1e4bd57; Path=/, F5_GEO_PROV=BC;path=/;, BIGipServerwww.telusmobility.com-80=195020504.20480.0000; path=/')
+(u'ovh.es', '"2b2100-2564-4ce5e8a7b17fc"', 'slb=R3935298954; path=/; expires=Fri, 16-Nov-2012 17:36:41 GMT')
+(u'freeridegames.com', 'W/"51981-1351764323508"', 'JSESSIONID=63A6760926F53FE4381E58F3098DA2D7; Path=/, 143_userName=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, 143_password=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, 143_TURNKEY=Default-251352870517800438; Expires=Thu, 14-Nov-2013 05:21:57 GMT; Path=/, 143_CAMPAIGN_SERIAL_ID=Default-Default; Expires=Tue, 12-Feb-2013 05:21:57 GMT; Path=/, 143_FIRST_BROWSER="Default-MSIE 7.0"; Version=1; Max-Age=7776000; Expires=Tue, 12-Feb-2013 05:21:57 GMT; Path=/, BIGipServerPool_C96_FRG_New_IP=2919895212.20480.0000; path=/')
+(u'al-akhbar.com', '"ef5c0de361bbf9a25fb378f19a8e9ae9"', '__cfduid=dbe2367d9a2d0c447782947192a5a46ef1352870708; expires=Mon, 23-Dec-2019 23:50:00 GMT; path=/; domain=.al-akhbar.com')
+(u'ifttt.com', '"fb5a0fa7bb91bed908212183bae2561b"', '_ifttt_front_end_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWI2ZjVmYjM4YzhhOWYwYTRhM2YzMDhiNjExMGQwOGMxBjsAVEkiFGFiaW5nb19pZGVudGl0eQY7AEZsKwifRp%2BzAQBJIhBfY3NyZl90b2tlbgY7AEZJIjFObWJtQnNVb1pEUCtGNS9wV0kxc2lCdTg5TlNldnBNZ21xbDBJeVAzc2JRPQY7AEY%3D--20eb6ded9baddc109f92203ec0794c29c6b3b9f7; path=/; HttpOnly')
+(u'monsterhigh.com', '"2424516-2106-4ce695b63d5c0"', 'http-cookie-default=R717191773; path=/')
+(u'lookingtoday.com', '6666cd76f96956469e7be39d750cc7d9', 'a5dbc46ccb12d4c88984ef73be7e2a48=2554a4b89ffa070d587ac5170fa60099; path=/')
+(u'visa.com', '"034e01738bdcd1:0"', 'visaAnonCookie=819dfea5e90d00002d33a35001750d0035020000; expires=Wed, 1-Jan-2020 23:59:59 GMT; path=/; domain=.visa.com, visaCookie=819dfea5e90d00002d33a35001750d0036020000; path=/; domain=.visa.com')
+(u'blender.org', '"81eb88f0bc288f5bfce8fc0f94f223bc"', 'fe_typo_user=3b1b4ea77aadb0eaf057da103e83191c; path=/')
+(u'countryoutfitter.com', '"82454f7b12c003d6cde5bf132cce8bac"', '_thebabyhabit_session=e57d3bb1729d50f9fbd3eaec576a7d03; path=/; HttpOnly, SERVERID=countryoutfitter-web5; path=/')
+(u'99labels.com', '"607ab4659727cd1:0"', '.ASPX99ANONYMOUS=gm7yET010Q-eoqxak8VXdfw6__AAvGqg4uAMe7LHmBZXDcsi-V9r1dGUhQBrRwqzF68AfMNeOd7-v3wXbW1JEppYTsYMADMoGpMtlIXjWWqM_QgWi-WmvlOE2JhqlCTG2_HI_LytV9orgMtnX_qIU_PY1P41; expires=Fri, 14-Dec-2012 06:08:20 GMT; path=/; HttpOnly, BIGipServerPool-94.236.67.107-80=738308362.20480.0000; path=/')
+(u'rpxnow.com', '"c863a8cb9e94eff90a3db89d041c5a15"', '_accelerator_session_id=0e6240d9dc6a04ba7e722c2f3050f7b6; path=/; secure')
+(u'longdo.com', '"53a885b29fe24e5b4a3bcb3e1f9ffa8e"', 'SESS2a25bdd464b25aae2f236a5542df0656=buqvju5ag9j1sh8pkgaqdsftv6; expires=Fri, 07-Dec-2012 09:47:45 GMT; path=/; domain=.longdo.com')
+
+
+Sites with same Set-Cookie:
+(u'sncf.com', '"226bae5a44e5bdcb129027f4a994925f"', 'SNCCACHE=sncvitp11var; path=/, SNC_city=LIL_PRD1; path=/; domain=.sncf.com')
+
+
+Sites with problems:
+p30day.com
+manageyourloans.com
+ok168.com
+uswitch.com
+tjrj.jus.br
+moviepilot.de
+sogou.com
+d.cn
+mamashai.com
+peopleclick.com
+ubuntuusers.de
+songspk.info
+instyle.com
+vui.vn
+ovh.es
+freeridegames.com
+al-akhbar.com
+99labels.com
+rpxnow.com
+
+
+# ETag changed: 23
+# ETag unchanged: 38
+# HTTP status 304: 0
+# Cookie changed: 43
+# Cookie unchanged: 1
+# Err general: 18
+# Err robot: 0
+# Err permission: 1
